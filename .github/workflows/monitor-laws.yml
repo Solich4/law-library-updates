@@ -1,0 +1,36 @@
+name: Monitor official legal publications
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legal-publication-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Test publication parser
+        env:
+          PIP_DISABLE_PIP_VERSION_CHECK: '1'
+        run: |
+          python3 -m pip install lxml==6.1.1
+          python3 -m unittest discover -s tools -p 'test_*.py' -v
+      - name: Collect publications requiring review
+        run: python3 tools/monitor_publications.py --since 2026-10-23
+      - name: Detect active and deferred official editions
+        if: always()
+        run: python3 tools/monitor_editions.py
+      - name: Save monitoring state and review queue
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- .monitor/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Update official publication review queue'
+          git push

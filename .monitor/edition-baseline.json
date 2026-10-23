@@ -1,0 +1,362 @@
+{
+  "verifiedAt": "2026-10-23",
+  "documents": [
+    {
+      "id": "police",
+      "officialHash": "24287e441c244fff7d41b0f152b3c92dce9232c82e111f20eca4fbf94128c508",
+      "editionId": 496043,
+      "editionDate": "20260804",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "labour",
+      "officialHash": "03bdee8f44a71247d7ba3342484326dbc3fa292d3caae9f88ada4b1ee38c20d9",
+      "editionId": 492286,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495396,
+          "editionDate": "20270301"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "officialHash": "67c8f9935a6c27bd4075a7e8c1965e7acabbdf019e8dcf764d9203a17ddfcf67",
+      "editionId": 491992,
+      "editionDate": "20260518",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495926,
+          "editionDate": "20261201"
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "officialHash": "22ab398631ebf15f4c8e7cfbc229e36cd2c98f61dd095934c64eb2106d370190",
+      "editionId": 496074,
+      "editionDate": "20260804",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496075,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    {
+      "id": "housing",
+      "officialHash": "8b4a1920bd1b392ecc9684dc74ddebb02da5af465df06bc4a7ff8c2baf3915ce",
+      "editionId": 488169,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 485998,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 485999,
+          "editionDate": "20280301"
+        },
+        {
+          "editionId": 495376,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    {
+      "id": "land",
+      "officialHash": "f7e8a05ab96295ade2be3c550c15fdb66646f0b16f0f65c5aad57b59577acb74",
+      "editionId": 486035,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496107,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    {
+      "id": "criminal",
+      "officialHash": "f29a592d348b400651a6760273edea9dfcbb75f4d56777c1c5b99233244b404c",
+      "editionId": 496140,
+      "editionDate": "20260815",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 494253,
+          "editionDate": "20270301"
+        }
+      ]
+    },
+    {
+      "id": "forest",
+      "officialHash": "d7e701370b68103b6266adeef0600c62b8fdd7c8517eb57fcfdf22995ab90958",
+      "editionId": 496070,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496071,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 496072,
+          "editionDate": "20270901"
+        },
+        {
+          "editionId": 496073,
+          "editionDate": "20280301"
+        }
+      ]
+    },
+    {
+      "id": "urban",
+      "officialHash": "fc01bd4ee09272d641c80b86f8be9f750ca1137e1402dd267b5b991e64ad45b1",
+      "editionId": 477703,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 337133,
+          "editionDate": "20270101"
+        },
+        {
+          "editionId": 493299,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 496081,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    {
+      "id": "air",
+      "officialHash": "24690944a51bce854e2e6669730e80e6290a77c2c2b574149c999989143e3a0c",
+      "editionId": 492300,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 492301,
+          "editionDate": "20280301"
+        }
+      ]
+    },
+    {
+      "id": "inland-water",
+      "officialHash": "1e0511819057ac27ce824e6862488cd24ce5a98760c6aa2116112515fd7fd3d0",
+      "editionId": 477761,
+      "editionDate": "20260301",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495404,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 496108,
+          "editionDate": "20270901"
+        },
+        {
+          "editionId": 496109,
+          "editionDate": "20280301"
+        }
+      ]
+    },
+    {
+      "id": "penal-enforcement",
+      "officialHash": "7f2d72fdcce53161ff2e24ed5f79b59257bb81285e5e7a77c33b32bc88d32848",
+      "editionId": 489497,
+      "editionDate": "20260920",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "civil-3",
+      "officialHash": "4420d99c9eb3a210be9c946b1668b59acfb944f1129f0beaf1bd82d03449122c",
+      "editionId": 475782,
+      "editionDate": "20250715",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "civil-4",
+      "officialHash": "3edc1b4f0e70ca1c9191422c7c01743f4316210d72f59b4a45581dd70060fb13",
+      "editionId": 475868,
+      "editionDate": "20260104",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496067,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "officialHash": "1e6024ba3941a2db83058b219a73643f87ad32f9f6bb5c9fd9b4bcb5aaa3f979",
+      "editionId": 492297,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 483532,
+          "editionDate": "20270901"
+        },
+        {
+          "editionId": 483533,
+          "editionDate": "20280101"
+        },
+        {
+          "editionId": 494247,
+          "editionDate": "20261201"
+        },
+        {
+          "editionId": 494249,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    {
+      "id": "arbitration",
+      "officialHash": "2464a0020ca4de3955dedd4369ba3d1bbbc846a28422a1b7c06ff6098086e8c3",
+      "editionId": 483504,
+      "editionDate": "20260101",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495393,
+          "editionDate": "20270727"
+        }
+      ]
+    },
+    {
+      "id": "administrative-procedure",
+      "officialHash": "301b8e7807e422d78de841e939939cb07d46851f945e2039d13fa8b38623557f",
+      "editionId": 490431,
+      "editionDate": "20260510",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "merchant-shipping",
+      "officialHash": "779dc3826f8590b9834ef488b94ccf833f26cde0f112edc741f9becd629adf96",
+      "editionId": 477774,
+      "editionDate": "20260301",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496116,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    {
+      "id": "civil-procedure",
+      "officialHash": "34099dcc0eb7647de8e2af5a8ff35414410745ba6b4f742a81842946c1a6670e",
+      "editionId": 496093,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "tax-2",
+      "officialHash": "6d30a92f830312a1b62d0a002c635c3e667c52e1059a82525dd65cb8e2bbe0a6",
+      "editionId": 496111,
+      "editionDate": "20261001",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 483514,
+          "editionDate": "20270401"
+        },
+        {
+          "editionId": 483515,
+          "editionDate": "20271001"
+        },
+        {
+          "editionId": 495405,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    {
+      "id": "civil-1",
+      "officialHash": "ba747b7c430fdfb9405741d818463a26af1577a680f7a9ab6318cc6f4faa1121",
+      "editionId": 495930,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "civil-2",
+      "officialHash": "c5515b06c932bdfbd67b34f5b856bb8317deaabded3eacae2ebadfd4c6703785",
+      "editionId": 493400,
+      "editionDate": "20260610",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "criminal-procedure",
+      "officialHash": "fe66afca01e13d9cd5c9372505774708c90daa44c9410084df9c1b64e0635a03",
+      "editionId": 495402,
+      "editionDate": "20260806",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    {
+      "id": "administrative-offences",
+      "officialHash": "6639c6c6580e8aa0bdf84170d25823669dfb6a4144b03da245ef4889f24765c0",
+      "editionId": 496100,
+      "editionDate": "20261001",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495401,
+          "editionDate": "20270123"
+        },
+        {
+          "editionId": 496101,
+          "editionDate": "20261103"
+        },
+        {
+          "editionId": 496102,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    {
+      "id": "tax-1",
+      "officialHash": "b113c2e08341853ef53a8dad4585b513d96f85e0f3d0d246a25ecf52e40608db",
+      "editionId": 495415,
+      "editionDate": "20261001",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 483526,
+          "editionDate": "20270401"
+        },
+        {
+          "editionId": 495919,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    {
+      "id": "constitution",
+      "officialHash": "c9693d70b5bc11c97f515e288930b34815497eab8f08a7ad32eaab319b6d262a",
+      "editionId": 406785,
+      "editionDate": "20221005",
+      "officialBodyReady": false,
+      "futureEditions": []
+    }
+  ]
+}

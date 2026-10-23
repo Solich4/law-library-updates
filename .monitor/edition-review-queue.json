@@ -1,0 +1,314 @@
+{
+  "checkedAt": "2026-10-23T15:19:18.683427+00:00",
+  "scope": "Detection only. No automatic legal interpretation, content replacement, signing or publication.",
+  "transport": "Official legacy metadata endpoint uses HTTP; changes are untrusted review triggers until corroborated.",
+  "errors": [],
+  "pending": {},
+  "observed": {
+    "police": {
+      "editionId": 496043,
+      "editionDate": "20260804",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "labour": {
+      "editionId": 492286,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495396,
+          "editionDate": "20270301"
+        }
+      ]
+    },
+    "family": {
+      "editionId": 491992,
+      "editionDate": "20260518",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495926,
+          "editionDate": "20261201"
+        }
+      ]
+    },
+    "water": {
+      "editionId": 496074,
+      "editionDate": "20260804",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496075,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    "housing": {
+      "editionId": 488169,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 485998,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 485999,
+          "editionDate": "20280301"
+        },
+        {
+          "editionId": 495376,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    "land": {
+      "editionId": 486035,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496107,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    "criminal": {
+      "editionId": 496140,
+      "editionDate": "20260815",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 494253,
+          "editionDate": "20270301"
+        }
+      ]
+    },
+    "forest": {
+      "editionId": 496070,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496071,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 496072,
+          "editionDate": "20270901"
+        },
+        {
+          "editionId": 496073,
+          "editionDate": "20280301"
+        }
+      ]
+    },
+    "urban": {
+      "editionId": 477703,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 337133,
+          "editionDate": "20270101"
+        },
+        {
+          "editionId": 493299,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 496081,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    "air": {
+      "editionId": 492300,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 492301,
+          "editionDate": "20280301"
+        }
+      ]
+    },
+    "inland-water": {
+      "editionId": 477761,
+      "editionDate": "20260301",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495404,
+          "editionDate": "20270301"
+        },
+        {
+          "editionId": 496108,
+          "editionDate": "20270901"
+        },
+        {
+          "editionId": 496109,
+          "editionDate": "20280301"
+        }
+      ]
+    },
+    "penal-enforcement": {
+      "editionId": 489497,
+      "editionDate": "20260920",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "civil-3": {
+      "editionId": 475782,
+      "editionDate": "20250715",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "civil-4": {
+      "editionId": 475868,
+      "editionDate": "20260104",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496067,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    "budget": {
+      "editionId": 492297,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 483532,
+          "editionDate": "20270901"
+        },
+        {
+          "editionId": 483533,
+          "editionDate": "20280101"
+        },
+        {
+          "editionId": 494247,
+          "editionDate": "20261201"
+        },
+        {
+          "editionId": 494249,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    "arbitration": {
+      "editionId": 483504,
+      "editionDate": "20260101",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495393,
+          "editionDate": "20270727"
+        }
+      ]
+    },
+    "administrative-procedure": {
+      "editionId": 490431,
+      "editionDate": "20260510",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "merchant-shipping": {
+      "editionId": 477774,
+      "editionDate": "20260301",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 496116,
+          "editionDate": "20270901"
+        }
+      ]
+    },
+    "civil-procedure": {
+      "editionId": 496093,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "tax-2": {
+      "editionId": 496111,
+      "editionDate": "20261001",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 483514,
+          "editionDate": "20270401"
+        },
+        {
+          "editionId": 483515,
+          "editionDate": "20271001"
+        },
+        {
+          "editionId": 495405,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    "civil-1": {
+      "editionId": 495930,
+      "editionDate": "20260901",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "civil-2": {
+      "editionId": 493400,
+      "editionDate": "20260610",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "criminal-procedure": {
+      "editionId": 495402,
+      "editionDate": "20260806",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "administrative-offences": {
+      "editionId": 496100,
+      "editionDate": "20261001",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495401,
+          "editionDate": "20270123"
+        },
+        {
+          "editionId": 496101,
+          "editionDate": "20261103"
+        },
+        {
+          "editionId": 496102,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    "tax-1": {
+      "editionId": 495415,
+      "editionDate": "20261001",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 483526,
+          "editionDate": "20270401"
+        },
+        {
+          "editionId": 495919,
+          "editionDate": "20270101"
+        }
+      ]
+    },
+    "constitution": {
+      "editionId": 406785,
+      "editionDate": "20221005",
+      "officialBodyReady": false,
+      "futureEditions": []
+    }
+  }
+}
