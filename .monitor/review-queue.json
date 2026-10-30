@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T22:43:56.679543+00:00",
+  "checkedAt": "2026-10-30T05:44:21.668177+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
