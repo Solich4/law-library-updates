@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T05:58:40.260941+00:00",
+  "checkedAt": "2026-11-02T15:45:25.811227+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -10,6 +10,256 @@
   "monitoringSince": "2026-10-23",
   "problems": [],
   "pendingReview": [
+    {
+      "id": "0001202611020008",
+      "title": "Федеральный закон от 02.11.2026 № 350-ФЗ \"О внесении изменений в отдельные законодательные акты Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020008",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "a16c38ad117032726ff50c9865928fae75f110099346217c11ecf00d101e57b3",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020006",
+      "title": "Федеральный закон от 02.11.2026 № 349-ФЗ \"О внесении изменений в Земельный кодекс Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020006",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "d3d299a1351b0606cd9a3d07aa9376c705664b6577bd23c7effaf56efb4bb216",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020007",
+      "title": "Федеральный закон от 02.11.2026 № 348-ФЗ \"О внесении изменений в статьи 51 и 57 Бюджетного кодекса Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020007",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "b194d60355869bb746f45a51355818748f75779965ba23928832c764b9233b3d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020003",
+      "title": "Федеральный закон от 02.11.2026 № 347-ФЗ \"О ратификации Соглашения между Правительством Российской Федерации и Правительством Китайской Народной Республики о совместном строительстве второго главного пути колеи 1435 мм на трансграничном участке железной дороги Забайкальск - Маньчжурия\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020003",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "dd23b1f5f538caad6eb255e5a900c8c2c678e937f28b21d50ce326e79101d822",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020002",
+      "title": "Федеральный закон от 02.11.2026 № 346-ФЗ \"О ратификации Соглашения об основах отношений между Российской Федерацией и Буркина-Фасо\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020002",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "f40897136ea0957293b89496ad6260df82ce6799c073eebb58ce19ca4d9d3979",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020004",
+      "title": "Федеральный закон от 02.11.2026 № 345-ФЗ \"О ратификации Протокола о внесении изменений в Договор между Российской Федерацией и Киргизской Республикой о развитии военно-технического сотрудничества от 20 июня 2017 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020004",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "d6a550a82c860a1cd6dbb39643d38609912b47506d3d577f0bea63b64faf1457",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020001",
+      "title": "Федеральный закон от 02.11.2026 № 344-ФЗ \"О ратификации Соглашения о сотрудничестве по обмену информацией при осуществлении принудительного исполнения судебных актов, актов иных уполномоченных органов и должностных лиц\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020001",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "f3017aaa45155df4c388af950a188def2d0923eb70178770d58d0cdfd0505de7",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020005",
+      "title": "Федеральный закон от 02.11.2026 № 343-ФЗ \"Об аттракционах\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020005",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "d4c65b9cc33c10da57ff4063a1e09968d7fe1065186cdf435dc7a3598af6a755",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020043",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 805 \"Об установлении предельной штатной численности Министерства Российской Федерации по делам гражданской обороны, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020043",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "2f0b29bb14cb241b2f95803170492b6375bcfc3321ad218b6e52f5be8e2cfca0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020042",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 804 \"О внесении изменений в некоторые акты Президента Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020042",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "6f403274330a152679c13c3972bbe18ffd0613cc550db65710c9d12a1cad6360",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020037",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 803 \"О внесении изменений в Дисциплинарный устав Вооруженных Сил Российской Федерации и Устав гарнизонной и караульной служб Вооруженных Сил Российской Федерации, утвержденные Указом Президента Российской Федерации от 10 ноября 2007 г. № 1495, в Указ Президента Российской Федерации от 25 марта 2015 г. № 161 \"Об утверждении Устава военной полиции Вооруженных Сил Российской Федерации и внесении изменений в некоторые акты Президента Российской Федерации\" и в Устав военной полиции Вооруженных Сил Российской Федерации, утвержденный этим Указом\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020037",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "3f897f7f81eda7867a95d03ce0c232481aa1a3b7bc26302bdcbb95bec147366b",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020038",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 802 \"О временных мерах по обеспечению поддержки функционирования на территории Российской Федерации информационных ресурсов\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020038",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "1b58504aa217b9e3c468865e4102fdb7a288453b3349ec89689af36dc6d1580e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020036",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 801 \"О некоторых особенностях передачи в собственность Российской Федерации выморочного имущества\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020036",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "424d2eb2276d4c8831b5ec63e1df08c9aa5dc7729c955fc696f52f84e3dab4b8",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020035",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 800 \"О внесении изменений в Положение о Министерстве обороны Российской Федерации, утвержденное Указом Президента Российской Федерации от 16 августа 2004 г. № 1082, и Положение о Генеральном штабе Вооруженных Сил Российской Федерации, утвержденное Указом Президента Российской Федерации от 23 июля 2013 г. № 631\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020035",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "64c014739c16d987e857b8f3d3fe7e5378fa650cb36b5f811d3a106d703fca5d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020034",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 799 \"О внесении изменений в Указ Президента Российской Федерации от 6 февраля 2023 г. № 72 \"Об особом порядке проведения расчетов между некоторыми юридическими лицами - резидентами при осуществлении внешнеэкономической деятельности\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020034",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "3a0b297def9cd2a816004d44e7d7c3fb8a00addbf72801619c8fad9f462194e6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020033",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 798 \"О членах наблюдательного совета акционерного общества \"Управляющая компания Российского Фонда Прямых Инвестиций\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020033",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "563c72de64eed6cf7ec0e43b4b26ec4bfa0c4e22451b7ce990c3d5a4bd28fba3",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020021",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 794 \"О внесении изменений в Указ Президента Российской Федерации от 29 декабря 2022 г. № 972 \"О дополнительных социальных гарантиях лицам, направленным (командированным) на территории Донецкой Народной Республики, Луганской Народной Республики, Запорожской области, Херсонской области, и членам их семей\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020021",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "5d5a923c258797936f13599f8ee873903f30f8baa468610a5b353744f8a03dbc",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020009",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 793 \"О праздновании 95-летия образования Еврейской автономной области\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020009",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "67cdb6f9e315bb4d5db536d5f8460f272affb624f7c2f8e626140360ee34838b",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020032",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 792 \"Об утверждении Положения о порядке реализации Договора между Российской Федерацией и Республикой Беларусь о развитии военно-технического сотрудничества от 10 декабря 2009 г.\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020032",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "106dd0c219b1fc9f4f4ce41a5e1cb287ec5d68a27f1142c57f2d460d990bc709",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020041",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 418-рп \"О подписании Договора между Российской Федерацией и Исламской Республикой Мавританией о выдаче\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020041",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "7260bd94fd987e85a8297270d3b3e9d9b11bcc7840872dec994e9a4e367f1f10",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020040",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 417-рп \"О подписании Договора между Российской Федерацией и Исламской Республикой Мавританией о передаче для отбывания наказания лиц, осужденных к лишению свободы\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020040",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "f5f2d0e78aea8ef6e9fa2e9f507e36a0686ab79d788a769b611190ab4019f4e9",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020039",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 415-рп \"О поощрении\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020039",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "4893a494d75ff31a7f337957b22a4078d020b2b0ab12f1ec011b3093280375a6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020031",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 411-рп (О назначении Ардабьевой Е.А. официальным представителем Президента Российской Федерации при рассмотрении палатами Федерального Собрания Российской Федерации вопроса о ратификации Договора между Российской Федерацией и Королевством Камбоджа о передаче лиц, осужденных к лишению свободы, подписанного в г. Казани)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020031",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "554fe9334e02522c95ba82b9bb74fb5ad266035eabd95be6891c3b3c3cadde3a",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020030",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 410-рп (О назначении Ардабьевой Е.А. официальным представителем Президента Российской Федерации при рассмотрении палатами Федерального Собрания Российской Федерации вопроса о ратификации Договора между Российской Федерацией и Республикой Зимбабве о передаче для отбывания наказания лиц, осужденных к лишению свободы, подписанного в г. Москве и г. Хараре)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020030",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "aee11e457652a895efa920fe0c33617f502a272de257b80c6f415e083348a7f0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020028",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 409-рп \"О подписании Договора между Российской Федерацией и Центральноафриканской Республикой о взаимной правовой помощи по уголовным делам\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020028",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "aa8a4355f7af313531c2e5a11804e5944ed7dc13980fbfb4ede49d4dfb1951e6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
     {
       "id": "0001202610300001",
       "title": "Указ Президента Российской Федерации от 30.10.2026 № 788 \"О награждении государственными наградами Российской Федерации\"",
