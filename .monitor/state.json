@@ -2,6 +2,10 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611030003": "2224121454751c8158960a4e2ce4f072399487ba0c134d3d1e5a1b71f8029200",
+        "0001202611030002": "f29d86b73c17fa11383b2a6a052d04b37f6047bdfe9cd46214609d55a3d5178d",
+        "0001202611030004": "3486e16867adc34ee9129b34c0f61e5274a05718daaddb78feece3fba027195c",
+        "0001202611030001": "555abb0d3a04aaff684e45ae2cfe119b83b4a481f0e1c8825c694acbd6a5841f",
         "0001202611020008": "a16c38ad117032726ff50c9865928fae75f110099346217c11ecf00d101e57b3",
         "0001202611020006": "d3d299a1351b0606cd9a3d07aa9376c705664b6577bd23c7effaf56efb4bb216",
         "0001202611020007": "b194d60355869bb746f45a51355818748f75779965ba23928832c764b9233b3d",
@@ -197,11 +201,7 @@
         "0001202608040074": "3ddb7d85bc5af14cb18e2f297a9662aa8b2372b1b43940d84446317eca7bd52b",
         "0001202608040075": "0a62a1246b4cb1bd4cd56066c789c8096c820810532099ffaee0814cae45cf7d",
         "0001202608040072": "ec61a02f50e7bf85a4674b9161a2d8f01c66b7085c782b889d54937803c0dc76",
-        "0001202608040073": "ead5a296598a688306e6fdc15c9d9409903afdf6e2371d4f5457ba3b90a8b8fa",
-        "0001202608040070": "1f03cc676baaea92d795609663568d9ea0a9f6eafec6a661bab713847197c24f",
-        "0001202608040069": "47d12adea2b571a515328beb511be41c0a91c63d7743af477e8510816c420f5e",
-        "0001202608040071": "f1105e39c3ce1074791640402f1030e1946d7acf406832e29c4694ec3190edac",
-        "0001202608040068": "3e6c54be103e3e14bd500a8eeef6796a0c7f1522c0c320d717a09f09d16c3213"
+        "0001202608040073": "ead5a296598a688306e6fdc15c9d9409903afdf6e2371d4f5457ba3b90a8b8fa"
       }
     },
     "court": {
@@ -706,6 +706,46 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611020054",
       "publishedAt": "2026-11-01T21:00:00+00:00",
       "metadataHash": "be875dad6289a209694704f7c6c10c759f8703aeea729aeac95f6a38917dc198",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611030003": {
+      "id": "0001202611030003",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 813 \"О внесении изменения в состав Комиссии при Президенте Российской Федерации по вопросам кадровой политики в некоторых федеральных государственных органах, утвержденный Указом Президента Российской Федерации от 11 мая 2022 г. № 286\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030003",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "2224121454751c8158960a4e2ce4f072399487ba0c134d3d1e5a1b71f8029200",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611030002": {
+      "id": "0001202611030002",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 812 \"О внесении изменений в состав Совета Безопасности Российской Федерации, утвержденный Указом Президента Российской Федерации от 25 мая 2012 г. № 715\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030002",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "f29d86b73c17fa11383b2a6a052d04b37f6047bdfe9cd46214609d55a3d5178d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611030004": {
+      "id": "0001202611030004",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 810 \"О присвоении специальных званий высшего начальствующего состава сотрудникам органов внутренних дел Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030004",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "3486e16867adc34ee9129b34c0f61e5274a05718daaddb78feece3fba027195c",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611030001": {
+      "id": "0001202611030001",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 785 \"О присуждении премии Президента Российской Федерации за вклад в укрепление единства российской нации 2026 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030001",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "555abb0d3a04aaff684e45ae2cfe119b83b4a481f0e1c8825c694acbd6a5841f",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"

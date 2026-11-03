@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T00:56:51.778350+00:00",
+  "checkedAt": "2026-11-03T14:09:25.627636+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -10,6 +10,46 @@
   "monitoringSince": "2026-10-23",
   "problems": [],
   "pendingReview": [
+    {
+      "id": "0001202611030003",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 813 \"О внесении изменения в состав Комиссии при Президенте Российской Федерации по вопросам кадровой политики в некоторых федеральных государственных органах, утвержденный Указом Президента Российской Федерации от 11 мая 2022 г. № 286\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030003",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "2224121454751c8158960a4e2ce4f072399487ba0c134d3d1e5a1b71f8029200",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611030002",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 812 \"О внесении изменений в состав Совета Безопасности Российской Федерации, утвержденный Указом Президента Российской Федерации от 25 мая 2012 г. № 715\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030002",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "f29d86b73c17fa11383b2a6a052d04b37f6047bdfe9cd46214609d55a3d5178d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611030004",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 810 \"О присвоении специальных званий высшего начальствующего состава сотрудникам органов внутренних дел Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030004",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "3486e16867adc34ee9129b34c0f61e5274a05718daaddb78feece3fba027195c",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611030001",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 785 \"О присуждении премии Президента Российской Федерации за вклад в укрепление единства российской нации 2026 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030001",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "555abb0d3a04aaff684e45ae2cfe119b83b4a481f0e1c8825c694acbd6a5841f",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
     {
       "id": "0001202611020008",
       "title": "Федеральный закон от 02.11.2026 № 350-ФЗ \"О внесении изменений в отдельные законодательные акты Российской Федерации\"",
