@@ -1,9 +1,495 @@
 {
-  "checkedAt": "2026-11-02T15:45:35.187664+00:00",
+  "checkedAt": "2026-11-03T00:57:00.476618+00:00",
   "scope": "Detection only. No automatic legal interpretation, content replacement, signing or publication.",
   "transport": "Official legacy metadata endpoint uses HTTP; changes are untrusted review triggers until corroborated.",
   "errors": [],
-  "pending": {},
+  "pending": {
+    "housing:active-edition-changed:498743:485998,485999,495376": {
+      "document": "housing",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 488169,
+        "editionDate": "20260901",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 485998,
+            "editionDate": "20270301"
+          },
+          {
+            "editionId": 485999,
+            "editionDate": "20280301"
+          },
+          {
+            "editionId": 495376,
+            "editionDate": "20270901"
+          }
+        ]
+      },
+      "observed": {
+        "editionId": 498743,
+        "editionDate": "20261007",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 485998,
+            "editionDate": "20270301"
+          },
+          {
+            "editionId": 485999,
+            "editionDate": "20280301"
+          },
+          {
+            "editionId": 495376,
+            "editionDate": "20270901"
+          }
+        ]
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        498743
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 498743,
+          "editionDate": "20261007",
+          "future": false,
+          "changes": [],
+          "sourceSha256": "6325b93bb08fe1b96a9912166bc1c322dcfafe211679aaff103aa1d98d0d791c"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 488169
+    },
+    "land:new-deferred-edition:486035:496107,498750": {
+      "document": "land",
+      "reason": "new-deferred-edition",
+      "baseline": {
+        "editionId": 486035,
+        "editionDate": "20260901",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 496107,
+            "editionDate": "20270901"
+          }
+        ]
+      },
+      "observed": {
+        "editionId": 486035,
+        "editionDate": "20260901",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 496107,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 498750,
+            "editionDate": "20261113"
+          }
+        ]
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "unavailable",
+      "articleChangeError": "No official article headings"
+    },
+    "budget:active-edition-changed:498752:483532,483533,494247,494249,498753": {
+      "document": "budget",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 492297,
+        "editionDate": "20260901",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 483532,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 483533,
+            "editionDate": "20280101"
+          },
+          {
+            "editionId": 494247,
+            "editionDate": "20261201"
+          },
+          {
+            "editionId": 494249,
+            "editionDate": "20270101"
+          }
+        ]
+      },
+      "observed": {
+        "editionId": 498752,
+        "editionDate": "20261023",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 483532,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 483533,
+            "editionDate": "20280101"
+          },
+          {
+            "editionId": 494247,
+            "editionDate": "20261201"
+          },
+          {
+            "editionId": 494249,
+            "editionDate": "20270101"
+          },
+          {
+            "editionId": 498753,
+            "editionDate": "20261113"
+          }
+        ]
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        498752
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 498752,
+          "editionDate": "20261023",
+          "future": false,
+          "changes": [],
+          "sourceSha256": "38a02456fc84dba1a67adc2f2e48f33f921e46d4e3a8b00636e402f52f2632eb"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 492297
+    },
+    "budget:new-deferred-edition:498752:483532,483533,494247,494249,498753": {
+      "document": "budget",
+      "reason": "new-deferred-edition",
+      "baseline": {
+        "editionId": 492297,
+        "editionDate": "20260901",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 483532,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 483533,
+            "editionDate": "20280101"
+          },
+          {
+            "editionId": 494247,
+            "editionDate": "20261201"
+          },
+          {
+            "editionId": 494249,
+            "editionDate": "20270101"
+          }
+        ]
+      },
+      "observed": {
+        "editionId": 498752,
+        "editionDate": "20261023",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 483532,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 483533,
+            "editionDate": "20280101"
+          },
+          {
+            "editionId": 494247,
+            "editionDate": "20261201"
+          },
+          {
+            "editionId": 494249,
+            "editionDate": "20270101"
+          },
+          {
+            "editionId": 498753,
+            "editionDate": "20261113"
+          }
+        ]
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "unavailable",
+      "articleChangeError": "No official article headings"
+    },
+    "civil-1:active-edition-changed:498756:": {
+      "document": "civil-1",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 495930,
+        "editionDate": "20260901",
+        "officialBodyReady": true,
+        "futureEditions": []
+      },
+      "observed": {
+        "editionId": 498756,
+        "editionDate": "20261023",
+        "officialBodyReady": true,
+        "futureEditions": []
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        498756
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 498756,
+          "editionDate": "20261023",
+          "future": false,
+          "changes": [],
+          "sourceSha256": "cf6507eaea5f6f8e518abfab1e8fc3029efe32c4dc196a895f00d9c0b04910ee"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 495930
+    },
+    "administrative-offences:active-edition-changed:496101:495401,496102": {
+      "document": "administrative-offences",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 496100,
+        "editionDate": "20261001",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 495401,
+            "editionDate": "20270123"
+          },
+          {
+            "editionId": 496101,
+            "editionDate": "20261103"
+          },
+          {
+            "editionId": 496102,
+            "editionDate": "20270101"
+          }
+        ]
+      },
+      "observed": {
+        "editionId": 496101,
+        "editionDate": "20261103",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 495401,
+            "editionDate": "20270123"
+          },
+          {
+            "editionId": 496102,
+            "editionDate": "20270101"
+          }
+        ]
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        496101
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 496101,
+          "editionDate": "20261103",
+          "future": false,
+          "changes": [
+            {
+              "article": "3.5",
+              "kind": "changed"
+            },
+            {
+              "article": "4.1",
+              "kind": "changed"
+            },
+            {
+              "article": "4.1.1",
+              "kind": "changed"
+            },
+            {
+              "article": "5.26",
+              "kind": "changed"
+            },
+            {
+              "article": "5.38",
+              "kind": "changed"
+            },
+            {
+              "article": "5.40",
+              "kind": "changed"
+            },
+            {
+              "article": "5.62",
+              "kind": "changed"
+            },
+            {
+              "article": "13.15",
+              "kind": "changed"
+            },
+            {
+              "article": "13.37",
+              "kind": "changed"
+            },
+            {
+              "article": "18.7",
+              "kind": "changed"
+            },
+            {
+              "article": "18.8",
+              "kind": "changed"
+            },
+            {
+              "article": "18.9",
+              "kind": "changed"
+            },
+            {
+              "article": "18.10",
+              "kind": "changed"
+            },
+            {
+              "article": "18.11",
+              "kind": "changed"
+            },
+            {
+              "article": "18.12",
+              "kind": "changed"
+            },
+            {
+              "article": "18.15",
+              "kind": "changed"
+            },
+            {
+              "article": "18.16",
+              "kind": "changed"
+            },
+            {
+              "article": "18.17",
+              "kind": "changed"
+            },
+            {
+              "article": "18.18",
+              "kind": "changed"
+            },
+            {
+              "article": "19.3",
+              "kind": "changed"
+            },
+            {
+              "article": "19.27",
+              "kind": "changed"
+            },
+            {
+              "article": "19.34",
+              "kind": "changed"
+            },
+            {
+              "article": "20.1",
+              "kind": "changed"
+            },
+            {
+              "article": "20.2",
+              "kind": "changed"
+            },
+            {
+              "article": "20.2.2",
+              "kind": "changed"
+            },
+            {
+              "article": "20.3",
+              "kind": "changed"
+            },
+            {
+              "article": "20.3.1",
+              "kind": "changed"
+            },
+            {
+              "article": "20.3.2",
+              "kind": "changed"
+            },
+            {
+              "article": "20.3.3",
+              "kind": "changed"
+            },
+            {
+              "article": "20.3.4",
+              "kind": "changed"
+            },
+            {
+              "article": "20.5",
+              "kind": "changed"
+            },
+            {
+              "article": "20.5.1",
+              "kind": "changed"
+            },
+            {
+              "article": "20.13",
+              "kind": "changed"
+            },
+            {
+              "article": "20.18",
+              "kind": "changed"
+            },
+            {
+              "article": "20.25",
+              "kind": "changed"
+            },
+            {
+              "article": "20.27",
+              "kind": "changed"
+            },
+            {
+              "article": "20.28",
+              "kind": "changed"
+            },
+            {
+              "article": "20.29",
+              "kind": "changed"
+            },
+            {
+              "article": "20.33",
+              "kind": "changed"
+            },
+            {
+              "article": "23.1",
+              "kind": "changed"
+            },
+            {
+              "article": "23.3",
+              "kind": "changed"
+            },
+            {
+              "article": "23.10",
+              "kind": "changed"
+            },
+            {
+              "article": "28.3",
+              "kind": "changed"
+            },
+            {
+              "article": "29.5",
+              "kind": "changed"
+            },
+            {
+              "article": "32.9",
+              "kind": "changed"
+            }
+          ],
+          "sourceSha256": "9c15c5b3ffd9e51c323a7f1b0cd70cdbdf2d981cb48a8735db96aad1fcbf7639"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 496100
+    }
+  },
   "observed": {
     "police": {
       "editionId": 496043,
@@ -45,8 +531,8 @@
       ]
     },
     "housing": {
-      "editionId": 488169,
-      "editionDate": "20260901",
+      "editionId": 498743,
+      "editionDate": "20261007",
       "officialBodyReady": true,
       "futureEditions": [
         {
@@ -71,6 +557,10 @@
         {
           "editionId": 496107,
           "editionDate": "20270901"
+        },
+        {
+          "editionId": 498750,
+          "editionDate": "20261113"
         }
       ]
     },
@@ -177,8 +667,8 @@
       ]
     },
     "budget": {
-      "editionId": 492297,
-      "editionDate": "20260901",
+      "editionId": 498752,
+      "editionDate": "20261023",
       "officialBodyReady": true,
       "futureEditions": [
         {
@@ -196,6 +686,10 @@
         {
           "editionId": 494249,
           "editionDate": "20270101"
+        },
+        {
+          "editionId": 498753,
+          "editionDate": "20261113"
         }
       ]
     },
@@ -253,8 +747,8 @@
       ]
     },
     "civil-1": {
-      "editionId": 495930,
-      "editionDate": "20260901",
+      "editionId": 498756,
+      "editionDate": "20261023",
       "officialBodyReady": true,
       "futureEditions": []
     },
@@ -271,17 +765,13 @@
       "futureEditions": []
     },
     "administrative-offences": {
-      "editionId": 496100,
-      "editionDate": "20261001",
+      "editionId": 496101,
+      "editionDate": "20261103",
       "officialBodyReady": true,
       "futureEditions": [
         {
           "editionId": 495401,
           "editionDate": "20270123"
-        },
-        {
-          "editionId": 496101,
-          "editionDate": "20261103"
         },
         {
           "editionId": 496102,

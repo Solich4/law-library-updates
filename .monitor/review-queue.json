@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T15:45:25.811227+00:00",
+  "checkedAt": "2026-11-03T00:56:51.778350+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -256,6 +256,26 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611020028",
       "publishedAt": "2026-11-01T21:00:00+00:00",
       "metadataHash": "aa8a4355f7af313531c2e5a11804e5944ed7dc13980fbfb4ede49d4dfb1951e6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020053",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 795 \"О назначении судей федеральных судов и о представителях Президента Российской Федерации в квалификационных коллегиях судей субъектов Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020053",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "875dbaa69ea96ce7b7003fa7070578d6c81cc824c9d6a109dd46841fd75a295f",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611020054",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 421-рп (О проведении 4 ноября 2026 г. в Московском Кремле церемонии вручения премии Президента Российской Федерации за вклад в укрепление единства российской нации и государственных наград Российской Федерации)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020054",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "be875dad6289a209694704f7c6c10c759f8703aeea729aeac95f6a38917dc198",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"

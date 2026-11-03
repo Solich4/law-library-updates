@@ -18,9 +18,11 @@
         "0001202611020035": "64c014739c16d987e857b8f3d3fe7e5378fa650cb36b5f811d3a106d703fca5d",
         "0001202611020034": "3a0b297def9cd2a816004d44e7d7c3fb8a00addbf72801619c8fad9f462194e6",
         "0001202611020033": "563c72de64eed6cf7ec0e43b4b26ec4bfa0c4e22451b7ce990c3d5a4bd28fba3",
+        "0001202611020053": "875dbaa69ea96ce7b7003fa7070578d6c81cc824c9d6a109dd46841fd75a295f",
         "0001202611020021": "5d5a923c258797936f13599f8ee873903f30f8baa468610a5b353744f8a03dbc",
         "0001202611020009": "67cdb6f9e315bb4d5db536d5f8460f272affb624f7c2f8e626140360ee34838b",
         "0001202611020032": "106dd0c219b1fc9f4f4ce41a5e1cb287ec5d68a27f1142c57f2d460d990bc709",
+        "0001202611020054": "be875dad6289a209694704f7c6c10c759f8703aeea729aeac95f6a38917dc198",
         "0001202611020041": "7260bd94fd987e85a8297270d3b3e9d9b11bcc7840872dec994e9a4e367f1f10",
         "0001202611020040": "f5f2d0e78aea8ef6e9fa2e9f507e36a0686ab79d788a769b611190ab4019f4e9",
         "0001202611020039": "4893a494d75ff31a7f337957b22a4078d020b2b0ab12f1ec011b3093280375a6",
@@ -199,9 +201,7 @@
         "0001202608040070": "1f03cc676baaea92d795609663568d9ea0a9f6eafec6a661bab713847197c24f",
         "0001202608040069": "47d12adea2b571a515328beb511be41c0a91c63d7743af477e8510816c420f5e",
         "0001202608040071": "f1105e39c3ce1074791640402f1030e1946d7acf406832e29c4694ec3190edac",
-        "0001202608040068": "3e6c54be103e3e14bd500a8eeef6796a0c7f1522c0c320d717a09f09d16c3213",
-        "0001202608040066": "6ef63668f8ef3419478b373bfa1d1e43312a0879d4b63fa57e36ea4e9dede562",
-        "0001202608040067": "8b68a99f869e95ceb48821a152e1c41e64b9d3f3f59fa14509a72c488de7bc59"
+        "0001202608040068": "3e6c54be103e3e14bd500a8eeef6796a0c7f1522c0c320d717a09f09d16c3213"
       }
     },
     "court": {
@@ -686,6 +686,26 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611020028",
       "publishedAt": "2026-11-01T21:00:00+00:00",
       "metadataHash": "aa8a4355f7af313531c2e5a11804e5944ed7dc13980fbfb4ede49d4dfb1951e6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611020053": {
+      "id": "0001202611020053",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 795 \"О назначении судей федеральных судов и о представителях Президента Российской Федерации в квалификационных коллегиях судей субъектов Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020053",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "875dbaa69ea96ce7b7003fa7070578d6c81cc824c9d6a109dd46841fd75a295f",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611020054": {
+      "id": "0001202611020054",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 421-рп (О проведении 4 ноября 2026 г. в Московском Кремле церемонии вручения премии Президента Российской Федерации за вклад в укрепление единства российской нации и государственных наград Российской Федерации)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020054",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "be875dad6289a209694704f7c6c10c759f8703aeea729aeac95f6a38917dc198",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
