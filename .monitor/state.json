@@ -2,6 +2,7 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611040001": "3a1db5991c8c268c75eeb15cb51452f552249a6bb4d42900aa58f4a871e2385e",
         "0001202611030003": "2224121454751c8158960a4e2ce4f072399487ba0c134d3d1e5a1b71f8029200",
         "0001202611030002": "f29d86b73c17fa11383b2a6a052d04b37f6047bdfe9cd46214609d55a3d5178d",
         "0001202611030004": "3486e16867adc34ee9129b34c0f61e5274a05718daaddb78feece3fba027195c",
@@ -200,8 +201,7 @@
         "0001202608040077": "ebc7e02e9ad94818e4ce0e5cb4ad56b8ee9ac7c1c60a4de2c14aa6b1cfa6f6c2",
         "0001202608040074": "3ddb7d85bc5af14cb18e2f297a9662aa8b2372b1b43940d84446317eca7bd52b",
         "0001202608040075": "0a62a1246b4cb1bd4cd56066c789c8096c820810532099ffaee0814cae45cf7d",
-        "0001202608040072": "ec61a02f50e7bf85a4674b9161a2d8f01c66b7085c782b889d54937803c0dc76",
-        "0001202608040073": "ead5a296598a688306e6fdc15c9d9409903afdf6e2371d4f5457ba3b90a8b8fa"
+        "0001202608040072": "ec61a02f50e7bf85a4674b9161a2d8f01c66b7085c782b889d54937803c0dc76"
       }
     },
     "court": {
@@ -409,5 +409,16 @@
       }
     }
   },
-  "pending": {}
+  "pending": {
+    "0001202611040001": {
+      "id": "0001202611040001",
+      "title": "Указ Президента Российской Федерации от 04.11.2026 № 815 \"О присвоении дипломатических рангов\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611040001",
+      "publishedAt": "2026-11-03T21:00:00+00:00",
+      "metadataHash": "3a1db5991c8c268c75eeb15cb51452f552249a6bb4d42900aa58f4a871e2385e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    }
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T06:15:37.694125+00:00",
+  "checkedAt": "2026-11-04T14:35:17.916228+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -9,10 +9,16 @@
   "contentPublished": false,
   "monitoringSince": "2026-10-23",
   "problems": [],
-  "pendingReview": [],
-  "lastReview": {
-    "contentRevision": 20,
-    "closedCount": 33,
-    "reviewedOn": "2026-11-04"
-  }
+  "pendingReview": [
+    {
+      "id": "0001202611040001",
+      "title": "Указ Президента Российской Федерации от 04.11.2026 № 815 \"О присвоении дипломатических рангов\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611040001",
+      "publishedAt": "2026-11-03T21:00:00+00:00",
+      "metadataHash": "3a1db5991c8c268c75eeb15cb51452f552249a6bb4d42900aa58f4a871e2385e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    }
+  ]
 }
