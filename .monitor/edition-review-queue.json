@@ -77,7 +77,11 @@
             }
           ]
         }
-      ]
+      ],
+      "annotationReviewedInRevision": 20,
+      "reviewDisposition": "prepared-awaiting-effective-date",
+      "effectiveDate": "2026-11-13",
+      "preparedTextUrl": "https://raw.githubusercontent.com/Solich4/law-library-updates/main/materials/future-2026-11-13-review.json"
     },
     "budget:new-deferred-edition:498752:483532,483533,494247,494249,498753": {
       "document": "budget",
@@ -156,7 +160,11 @@
             }
           ]
         }
-      ]
+      ],
+      "annotationReviewedInRevision": 20,
+      "reviewDisposition": "prepared-awaiting-effective-date",
+      "effectiveDate": "2026-11-13",
+      "preparedTextUrl": "https://raw.githubusercontent.com/Solich4/law-library-updates/main/materials/future-2026-11-13-review.json"
     }
   },
   "observed": {
@@ -470,5 +478,5 @@
       "futureEditions": []
     }
   },
-  "contentRevision": 19
+  "contentRevision": 20
 }
