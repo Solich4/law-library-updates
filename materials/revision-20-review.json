@@ -1,0 +1,1141 @@
+{
+  "revision": 20,
+  "reviewedOn": "2026-11-04",
+  "scope": "The 33 user-specified publication events, not a certification of all Russian legislation",
+  "publicationReviews": [
+    {
+      "id": "0001202611030003",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 813 \"О внесении изменения в состав Комиссии при Президенте Российской Федерации по вопросам кадровой политики в некоторых федеральных государственных органах, утвержденный Указом Президента Российской Федерации от 11 мая 2022 г. № 286\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030003",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "2224121454751c8158960a4e2ce4f072399487ba0c134d3d1e5a1b71f8029200",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-03",
+      "effectiveDateBasis": "Пункт 2: со дня подписания",
+      "determination": "Изменён персональный состав кадровой комиссии; статьи библиотеки не меняются.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548139/",
+          "sha256": "58ede63a5bc7fa05d3b7fa22943df1c19b85f733e116cc310e93c0868c007c86",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611030002",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 812 \"О внесении изменений в состав Совета Безопасности Российской Федерации, утвержденный Указом Президента Российской Федерации от 25 мая 2012 г. № 715\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030002",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "f29d86b73c17fa11383b2a6a052d04b37f6047bdfe9cd46214609d55a3d5178d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-03",
+      "effectiveDateBasis": "Пункт 2: со дня подписания",
+      "determination": "Изменён персональный состав Совета Безопасности, не его конституционные полномочия.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611030002",
+          "sha256": "90252699e9e30987ef900c89b6f1ece47ead62d07fa2eeb014144ea60dff514c",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611030004",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 810 \"О присвоении специальных званий высшего начальствующего состава сотрудникам органов внутренних дел Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030004",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "3486e16867adc34ee9129b34c0f61e5274a05718daaddb78feece3fba027195c",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-03",
+      "effectiveDateBasis": "Индивидуальный акт; пункт 7 Указа № 763",
+      "determination": "Присвоены звания конкретным сотрудникам; нормы закона о полиции не меняются.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611030004",
+          "sha256": "35bec62f3218c91bbb5d83581b81ad15c7cb073f09457be138e1cb39f61bec03",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611030001",
+      "title": "Указ Президента Российской Федерации от 03.11.2026 № 785 \"О присуждении премии Президента Российской Федерации за вклад в укрепление единства российской нации 2026 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611030001",
+      "publishedAt": "2026-11-02T21:00:00+00:00",
+      "metadataHash": "555abb0d3a04aaff684e45ae2cfe119b83b4a481f0e1c8825c694acbd6a5841f",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-03",
+      "effectiveDateBasis": "Индивидуальный акт; пункт 7 Указа № 763",
+      "determination": "Индивидуальное присуждение премии и звания лауреата.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611030001",
+          "sha256": "ed959e064fdb1d4101450418e139d1dbd0676b42428aacff18d1b2e532c7be4c",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020008",
+      "title": "Федеральный закон от 02.11.2026 № 350-ФЗ \"О внесении изменений в отдельные законодательные акты Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020008",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "a16c38ad117032726ff50c9865928fae75f110099346217c11ecf00d101e57b3",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2027-11-03",
+      "effectiveDateBasis": "Статья 14: год после опубликования 02.11.2026",
+      "determination": "13 статей меняют специальные финансовые законы (банки, страхование, ценные бумаги, НПФ, ПОД/ФТ, инвестиционные фонды, Банк России, валютный контроль, кредитные истории, МФО, клиринг, платёжная система, организованные торги); кодексы не переписываются. Будущая связь с банковской тайной пояснена в ГК 857; переходные сроки сохранены.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/",
+          "sha256": "d9c7663c315a6932c51f6f70c704cfd3b95659ba8c9926e3f68e4d5548bb98ac",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/3d0cac60971a511280cbba229d9b6329c07731f7/",
+          "sha256": "3edc54cda5c25769a639bea17d8f13258f650fd3a1432de6a34fab242c190cc4",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/",
+          "sha256": "743844cb37d2962a50bd8deadd4849923b3f9a2abdfd3c2a4259826646944a47",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/30b3f8c55f65557c253227a65b908cc075ce114a/",
+          "sha256": "7d4fe8a5937e0f8c6fe44dca881be9c92711c21e5296111b990216302aec68c1",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/",
+          "sha256": "e588ee982e459189c9f87ecaa12d760a2f191c188ba1ba1a4715400e91bce43c",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/",
+          "sha256": "007bcf6470ee4988162872c0d0bbd6f3bdfdb8d62b61c4daa29c258c5127dc5f",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/46b4b351a6eb6bf3c553d41eb663011c2cb38810/",
+          "sha256": "3f2eb6bfb215384b2daa33f1a5959549623571197451fb78838e7d5bdaf6efa2",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/6a73a7e61adc45fc3dd224c0e7194a1392c8b071/",
+          "sha256": "a56032e3348ac32eb5f45ba672a9a231169cf9f92273cd221df44f4ff6f90687",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/bdb2754392763f4c0afbdb3bc7ea77ef6a5287c4/",
+          "sha256": "481820e7777fa92b46941fa5c460130394057134ee23aa95fe6fb44ec0b2e0b4",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/b5315c892df7002ac987a311b4a242874fdcf420/",
+          "sha256": "a21c55167cca7fbe61921879e6684a4cf0c558e88c6fe93d2de50962eea9ebad",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/b62da3aeb315547b6915beadea02920bd7dd4c41/",
+          "sha256": "cf41bb562f5c29fd44b5a165205f954a37817b7e0916ff31e249f7ab43967325",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/3eeafbd3bdb64673818bd5cba64081209bddc7a4/",
+          "sha256": "7f4486274f389ce9b0dec83eed7f1d9b4870bcdaaefcc324c9dff980b7bfc080",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/e07f3a5e4b089705af512b1d4058f49e1857300d/",
+          "sha256": "cbdf66464d3c67889243308a2f416933314b44db4c6a076e14d4751dbf955416",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/e625deadfee87da5d5eb6e1866ae6969140b685b/",
+          "sha256": "538ed720aff0903102271a69c3aee008c6070fbcaf5f0b68858788b5f9db40b7",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548069/c7f026b7764e8984216a49254aa592fda4abd50b/",
+          "sha256": "5b5b65b0286ad6de0a480fcc2dcf9486aa0ae2e487c254afb3730586baab1292",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020006",
+      "title": "Федеральный закон от 02.11.2026 № 349-ФЗ \"О внесении изменений в Земельный кодекс Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020006",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "d3d299a1351b0606cd9a3d07aa9376c705664b6577bd23c7effaf56efb4bb216",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-13",
+      "effectiveDateBasis": "Специального срока нет; статья 6 закона № 5-ФЗ",
+      "determination": "7 статей ЗК: 27, 39.10, 39.16, 39.23, 70.1, 87, 93. Уточнены будущие пояснения, подготовлены полные будущие тексты; действующая редакция сохранена.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548067/",
+          "sha256": "3ed40336f4d4eadaf42a1deda1ddead031c15365f4a111f8063c7c8c259f0338",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020007",
+      "title": "Федеральный закон от 02.11.2026 № 348-ФЗ \"О внесении изменений в статьи 51 и 57 Бюджетного кодекса Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020007",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "b194d60355869bb746f45a51355818748f75779965ba23928832c764b9233b3d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-13",
+      "effectiveDateBasis": "Специального срока нет; статья 6 закона № 5-ФЗ",
+      "determination": "Статьи БК 51, 57. Подготовлены полные будущие тексты и уточнённые пояснения с примерами; действующая редакция сохранена.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548068/",
+          "sha256": "c57ce360b2662a410801426262ab32b2477641b297e43d4458de9343748207f5",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020003",
+      "title": "Федеральный закон от 02.11.2026 № 347-ФЗ \"О ратификации Соглашения между Правительством Российской Федерации и Правительством Китайской Народной Республики о совместном строительстве второго главного пути колеи 1435 мм на трансграничном участке железной дороги Забайкальск - Маньчжурия\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020003",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "dd23b1f5f538caad6eb255e5a900c8c2c678e937f28b21d50ce326e79101d822",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-13",
+      "effectiveDateBasis": "Статья 6 закона № 5-ФЗ; это дата закона о ратификации, не международного соглашения",
+      "determination": "Ратификация соглашения о втором пути Забайкальск — Маньчжурия; поправок в кодексы нет.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548064/",
+          "sha256": "3d9fb1b59f6ff172754ca3ffc7abd1a507dd0077950826d0c4d4cf02960fad88",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020002",
+      "title": "Федеральный закон от 02.11.2026 № 346-ФЗ \"О ратификации Соглашения об основах отношений между Российской Федерацией и Буркина-Фасо\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020002",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "f40897136ea0957293b89496ad6260df82ce6799c073eebb58ce19ca4d9d3979",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-13",
+      "effectiveDateBasis": "Статья 6 закона № 5-ФЗ; дата вступления соглашения определяется отдельно",
+      "determination": "Ратификация соглашения об отношениях с Буркина-Фасо; статьи библиотеки не меняются.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548063/",
+          "sha256": "0bdf7564ef38676e1604d9689effdc3999c44755655d6d05936ed33d7248a34e",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020004",
+      "title": "Федеральный закон от 02.11.2026 № 345-ФЗ \"О ратификации Протокола о внесении изменений в Договор между Российской Федерацией и Киргизской Республикой о развитии военно-технического сотрудничества от 20 июня 2017 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020004",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "d6a550a82c860a1cd6dbb39643d38609912b47506d3d577f0bea63b64faf1457",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-13",
+      "effectiveDateBasis": "Статья 6 закона № 5-ФЗ; дата вступления протокола определяется отдельно",
+      "determination": "Ратификация протокола о военно-техническом сотрудничестве с Киргизией; поправок в кодексы нет.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548065/",
+          "sha256": "8d69c0ed51ae4d19630a69233f5f39e020b02f370221a5e12f8b6f6fe0b8195b",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020001",
+      "title": "Федеральный закон от 02.11.2026 № 344-ФЗ \"О ратификации Соглашения о сотрудничестве по обмену информацией при осуществлении принудительного исполнения судебных актов, актов иных уполномоченных органов и должностных лиц\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020001",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "f3017aaa45155df4c388af950a188def2d0923eb70178770d58d0cdfd0505de7",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-13",
+      "effectiveDateBasis": "Статья 6 закона № 5-ФЗ; вступление самого соглашения определяется его условиями",
+      "determination": "Ратификация соглашения об обмене информацией при исполнении актов. Не заменяет нормы ГПК, АПК или КАС и не устанавливает новое общее правило признания иностранных решений.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548062/",
+          "sha256": "995b09638aef6ec7dbd07ffa541f29ec56adb61e6b246046a0eb02f876afef98",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020005",
+      "title": "Федеральный закон от 02.11.2026 № 343-ФЗ \"Об аттракционах\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020005",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "d4c65b9cc33c10da57ff4063a1e09968d7fe1065186cdf435dc7a3598af6a755",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2027-03-01",
+      "effectiveDateBasis": "Статья 20",
+      "determination": "Самостоятельный закон об аттракционах: 20 статей о регистрации, эксплуатации и контроле. Не вносит текстуальных поправок в кодексы и не создаёт сам новую санкцию КоАП; статья 19 отсылает к установленной законодательством ответственности.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/",
+          "sha256": "6b4691f5ee0e39da63de727fe2ae6e28903ea51d41c5eb59e606d02f919b79d9",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/01fbae25b3040955277cbd70aa1b907cceda878e/",
+          "sha256": "fa03463ab85c5f2e238056dd90a7f6fbbbab8499b7fd6d36efff06516d446330",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/27f9ddea0cccf9a6b90bb2cb8b545d436f18157b/",
+          "sha256": "952f50eb9719099375d833c394b0499d24914fc0f987202f40236eb5baf8c7ac",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/c530355c76ec66b91be9125e07b0b2bafd370a08/",
+          "sha256": "3a0c3e11e520632d84376bd0712847ebb9a32c55b9d68b2a0af7cba775507bf1",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/4f41fe599ce341751e4e34dc50a4b676674c1416/",
+          "sha256": "bafca11ee41fb28bdad2756e724ac0278de821e9cd7bcd0d9e278a7d26161e29",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/0a48b35f02e6263cc67127117b9e5b3d0a2147a8/",
+          "sha256": "d7f654855609cd45edeffba14d2dd4160be269edf44ef3a33fa885da7b88570d",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/aaa14cc7907905d18c4885a2a393ba498d687248/",
+          "sha256": "52c1b672c3d11ad0bd0c43a2da4e56514f2b95e77468f8601f27652e09e9a483",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/2e52c343d3f8238acf0d52a5f8b24fec7f17c5ce/",
+          "sha256": "c6e2abd3e63ef76a5a9a4e65b80a10733b4aed168aa84248e6e8f3f6c99aecb6",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/83a8cd37c273338ce155c444d872a950a0a36506/",
+          "sha256": "ce5b91074d5bab9cfbb25030d4045053fd24856adb9a43e2b39cadf49502464f",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/8142afc1b371d3bf89ac7a131d81a29b0b663008/",
+          "sha256": "00af18b0502e17a852de3a8c0a0083b4230f3316b9a9323a91d2087d77c3733e",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/13366b04a399b0f7956194eb56285897da43b878/",
+          "sha256": "f8f16d98d741b57750bd169d73763f7b5e0274a46550c482f241dba7d0b3ff65",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/027234f341b571e75e7f94f6016810c74af4be0a/",
+          "sha256": "19c3b1d7a81ca2ab2e278855191cd8a27790e38b796d7e113dea055a8ca72ee0",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/adbac6d64a424f31eddaaffe7b8a137630bc1843/",
+          "sha256": "5c93675038501d7fb8aadee3bb2e1949a7936219c408f880c5364b59118c2fbd",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/c42e7da2625ecfc1e5146f68ca0c6db87eb24b84/",
+          "sha256": "b45b8c282ac5421e54cca6ebe14babf645b211e5f23959b32013ceab529823bf",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/a43693991fce596497a5d52d1e5633668caffb1a/",
+          "sha256": "aa83fad220670650887ce46590d5a2ab732ce49a2b021b65a5fc84eff7c04db5",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/c2a5fa431a017d1e55f83823e800d3b433a00d82/",
+          "sha256": "41269e69a3e475f1dcbf34ce450a85f4ef7452e52c1a7300472e85d6ff139119",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/542b1522c4e9f80e83aece9ab814847c6c2588fb/",
+          "sha256": "80e676dee1803e452af30db46c111117471ff623716a15c5a38b68368b534ebc",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/60f4ff193fe72cb3acff396d9e64d55a5d318b78/",
+          "sha256": "db4141c392c5cd1ded1214333f4970be6f9fb57fc97943ca68f936ca806127af",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/7d90992857ca114dfed4f1f9f997d947d62d309d/",
+          "sha256": "e6c339a9b409f814371b97a04abbecd11412a0b2fa971ba5568e3d7e7b652b41",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/aba9afab674ff8b7140e46ee44f6246dd801754d/",
+          "sha256": "0fbd68d45988ce84d97de9730ac8b5c26d4364a8f9011e3e5ec0a83f6dc6d13d",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/f2e1e3574234e2e49463938888a54016ce827e07/",
+          "sha256": "3e453e2a152ae5f9d80de7890e36cbdd7a0014e15f1dfd2ee09aaa30e846fd46",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/6b58216436738c1bb1f87d4e9faa5ce2a2f6a5ec/",
+          "sha256": "8d02bd9fc12896bc1e32dc23fea9d7f76b7705b3462dda027a14e094f6969d93",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/d6eb0b10d64746757b98f0c0c8efe6bfa66ddef2/",
+          "sha256": "a2bcb0bb343ab55f0c302017eec7ca85a00787f97a3b0492fc9b033473b5cf96",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/6ffc51fb14e6d799b46582d410e5f43ac07405ac/",
+          "sha256": "5ea0c26be6489cd4423a2b1207782143f9c59ae54f2b07e1cbb65768e5d6dc52",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/6074ff968dc628dbc36b22a126f622803be4bdb4/",
+          "sha256": "914238e3e907525a22d66056610f71341d01d0ee596aa6647f1762e5f9d21a37",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/274c97ce26b64a67f8fb95221026f1f183378a1d/",
+          "sha256": "b0dcd3614e50a22baaccc869ce6b2e4df58f27e1854f6516195dedfb81b893df",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548066/c3e1e5cf784cae49a7a00e684147633418f725eb/",
+          "sha256": "e7f9543c6ab4e83e139b8c5945c57f525c6fe3392ffe50e22909b3a105b381d4",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020043",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 805 \"Об установлении предельной штатной численности Министерства Российской Федерации по делам гражданской обороны, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020043",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "2f0b29bb14cb241b2f95803170492b6375bcfc3321ad218b6e52f5be8e2cfca0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 4; ступени численности с 01.01.2027 и 01.01.2028",
+      "determination": "Численность МЧС и отмена прежнего указа; общие трудовые и бюджетные нормы не изменены.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548130/",
+          "sha256": "4321b01d32e9ebec2f779471c13d5c775485f8256173df7765a5c703e9c4371f",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020042",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 804 \"О внесении изменений в некоторые акты Президента Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020042",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "6f403274330a152679c13c3972bbe18ffd0613cc550db65710c9d12a1cad6360",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 6: со дня подписания",
+      "determination": "Положения о МЧС и Минобороны, перечни высших должностей; кодексы не изменены.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548129/",
+          "sha256": "1046b2017b5d7c80181d7efae88c09f018ba62e0e2ae0bbd1a9432f85233a785",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020037",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 803 \"О внесении изменений в Дисциплинарный устав Вооруженных Сил Российской Федерации и Устав гарнизонной и караульной служб Вооруженных Сил Российской Федерации, утвержденные Указом Президента Российской Федерации от 10 ноября 2007 г. № 1495, в Указ Президента Российской Федерации от 25 марта 2015 г. № 161 \"Об утверждении Устава военной полиции Вооруженных Сил Российской Федерации и внесении изменений в некоторые акты Президента Российской Федерации\" и в Устав военной полиции Вооруженных Сил Российской Федерации, утвержденный этим Указом\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020037",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "3f897f7f81eda7867a95d03ce0c232481aa1a3b7bc26302bdcbb95bec147366b",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 3: со дня подписания",
+      "determination": "Воинские уставы и освидетельствование в дисциплинарном производстве. Добавлена разграничивающая заметка к КоАП 2.5; процедура КоАП не заменена.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548122/",
+          "sha256": "501f36ad379fc3157266db4b0389e89afec7109d0e60b15581fe39db24fe47fb",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548122/942772dce30cfa36b671bcf19ca928e4d698a928/",
+          "sha256": "547068ced564832d2f2b0e46b0eb93128cc809bc738037f226972991be6ee6f6",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548122/2ab63c2e3ddddf4af98409ba61b5005db60210e6/",
+          "sha256": "7f7afe9506f6d04bd037a321a27c6dd4ad57a95ceb550a5ee4bfc3a0dfdb803b",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548122/74d668a1f63bd14c1e915960ffa3a87510d1e1ac/",
+          "sha256": "9856ca31d831b6a777266a3ee77357b15c0debd1a529a8fa99aa0467dda30868",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020038",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 802 \"О временных мерах по обеспечению поддержки функционирования на территории Российской Федерации информационных ресурсов\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020038",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "1b58504aa217b9e3c468865e4102fdb7a288453b3349ec89689af36dc6d1580e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 6: со дня официального опубликования",
+      "determination": "Самостоятельный специальный режим резервирования мощностей ЦОД и решений подкомиссии; статьи библиотеки не изменены. Не трактуется как общее разрешение зарубежной обработки персональных данных.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548123/",
+          "sha256": "f10f556a92cb359c7894d5b20b87e392221f72f1fa2cdb72d19371c4976641bb",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020036",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 801 \"О некоторых особенностях передачи в собственность Российской Федерации выморочного имущества\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020036",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "424d2eb2276d4c8831b5ec63e1df08c9aa5dc7729c955fc696f52f84e3dab4b8",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 18: со дня официального опубликования",
+      "determination": "Специальный порядок выморочных банковских средств и металлов. Пояснения к ГК 1151, 1155, 1162 и 857; текст ГК сохранён.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548124/",
+          "sha256": "4a0dc6c4c2bf2c7fc11bd3e7f954f6e13b434c7a50e669ecc621dfbf7323ef18",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020035",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 800 \"О внесении изменений в Положение о Министерстве обороны Российской Федерации, утвержденное Указом Президента Российской Федерации от 16 августа 2004 г. № 1082, и Положение о Генеральном штабе Вооруженных Сил Российской Федерации, утвержденное Указом Президента Российской Федерации от 23 июля 2013 г. № 631\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020035",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "64c014739c16d987e857b8f3d3fe7e5378fa650cb36b5f811d3a106d703fca5d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 3: со дня подписания",
+      "determination": "Полномочия Минобороны и Генштаба; кодексы не изменены.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548121/",
+          "sha256": "dd54f022b1f5a032f6de88cc1789e6ca9b8c01683343243ad35449a91c220f14",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020034",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 799 \"О внесении изменений в Указ Президента Российской Федерации от 6 февраля 2023 г. № 72 \"Об особом порядке проведения расчетов между некоторыми юридическими лицами - резидентами при осуществлении внешнеэкономической деятельности\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020034",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "3a0b297def9cd2a816004d44e7d7c3fb8a00addbf72801619c8fad9f462194e6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 2: со дня официального опубликования",
+      "determination": "Специальные валютные расчёты российских исполнителей и соисполнителей по Указу № 72; пояснена связь с ГК 317, без изменения текста статьи.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548120/",
+          "sha256": "3449099537a96c50f43eda076431134b5a7e2bd7e48107c1fd3dd21ca6b51b35",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020033",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 798 \"О членах наблюдательного совета акционерного общества \"Управляющая компания Российского Фонда Прямых Инвестиций\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020033",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "563c72de64eed6cf7ec0e43b4b26ec4bfa0c4e22451b7ce990c3d5a4bd28fba3",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 4: со дня подписания",
+      "determination": "Назначен наблюдательный совет РФПИ; общие корпоративные нормы ГК не изменены.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020033",
+          "sha256": "ef19cfcced63308fed3f0e2e5aa700ea9a562d3c03da7e9c48f4727ff13f28c5",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020021",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 794 \"О внесении изменений в Указ Президента Российской Федерации от 29 декабря 2022 г. № 972 \"О дополнительных социальных гарантиях лицам, направленным (командированным) на территории Донецкой Народной Республики, Луганской Народной Республики, Запорожской области, Херсонской области, и членам их семей\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020021",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "5d5a923c258797936f13599f8ee873903f30f8baa468610a5b353744f8a03dbc",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 3: со дня подписания; отношения с 01.11.2026",
+      "determination": "Расширен круг получателей дополнительных гарантий Указа № 972. Пояснение к ТК 302, без изменения статьи.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548110/",
+          "sha256": "3b2d7dd0bbc69e25d6cc34d5d995c85a1436147ba630134cf6d05d148ee5f309",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020009",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 793 \"О праздновании 95-летия образования Еврейской автономной области\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020009",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "67cdb6f9e315bb4d5db536d5f8460f272affb624f7c2f8e626140360ee34838b",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 4: со дня подписания; мероприятие в 2029 году",
+      "determination": "Организация празднования юбилея ЕАО; бюджетные ассигнования не являются изменением текста БК.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020009",
+          "sha256": "b6945c0ed1cf4e71241b1081d9212aec98796581bb19ac58923a22aeace3728f",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020032",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 792 \"Об утверждении Положения о порядке реализации Договора между Российской Федерацией и Республикой Беларусь о развитии военно-технического сотрудничества от 10 декабря 2009 г.\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020032",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "106dd0c219b1fc9f4f4ce41a5e1cb287ec5d68a27f1142c57f2d460d990bc709",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 3: со дня подписания",
+      "determination": "Порядок реализации военно-технического договора с Беларусью, перечни и разрешения; статьи кодексов не переписываются.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/",
+          "sha256": "7d17d91ce87e3282120935102961a2c42f1d41059724832a6d8ef98d297476db",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/942772dce30cfa36b671bcf19ca928e4d698a928/",
+          "sha256": "528188ae6a616e4a4dd3a7f3e1fc0dd525d84d2d439c419f9530082d58c2b286",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/b22fd149b0bb96e825feb61d770e1dd1f3afe0fb/",
+          "sha256": "781de05e4bf964c38c8d074556b122eef2a256f837338215bf6275c9e7cc58db",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/dc269373e224a7a19aa9d608acb76c2ec10f0dbc/",
+          "sha256": "1bf6492d283dfe288e0c9bd9cdbeef779a3fdc14a7b40e2d5a6e71d77382a855",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/27d28a5bd1897b5912624bb7e23cedd882413c6b/",
+          "sha256": "1e5fedf53ba940fca2aaa66d8705931b7e9bbb4a2016e85be20c175f6aa5c62f",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/f684f2f0a0f4308f06b3f293ace389d194277f58/",
+          "sha256": "ad65b609a75407b9267f92ab2b51ca65a28faf62c622715e02683058f6aa64b4",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/8811e52102aa521501994da29df381476bbdbba4/",
+          "sha256": "256bf43912add21fd3aa75bc792dfd9efd4d519b5882e5a509d689dc68604254",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/f84a0971d0b4231f63f3ed18d62e4114236038f6/",
+          "sha256": "d10885c31f8f46e3dc044cdd12294165a17e9350da767fec0fa4249bb873dd55",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        },
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_548118/0a305a24e70d7af9d3b97ada54d526380711952e/",
+          "sha256": "7822232a6414d84b17dc083854512c49bdf600e2194c43fd9ab5a5516caf0c68",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020041",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 418-рп \"О подписании Договора между Российской Федерацией и Исламской Республикой Мавританией о выдаче\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020041",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "7260bd94fd987e85a8297270d3b3e9d9b11bcc7840872dec994e9a4e367f1f10",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 7 Указа № 763: иной акт со дня подписания",
+      "determination": "Поручение подписать договор о выдаче с Мавританией. Не подтверждает вступление договора в силу и не меняет УПК.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020041",
+          "sha256": "f776f9b56448ec23656636b0ca0849f21c4a109a49a649e1a7655a1a108e5186",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020040",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 417-рп \"О подписании Договора между Российской Федерацией и Исламской Республикой Мавританией о передаче для отбывания наказания лиц, осужденных к лишению свободы\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020040",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "f5f2d0e78aea8ef6e9fa2e9f507e36a0686ab79d788a769b611190ab4019f4e9",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 7 Указа № 763",
+      "determination": "Поручение подписать договор о передаче осуждённых с Мавританией; не новое действующее правило УПК или УИК.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020040",
+          "sha256": "842455280a136f864b6ac924c92e448647626aab78ae0ab0f48dbb43a8cad994",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020039",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 415-рп \"О поощрении\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020039",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "4893a494d75ff31a7f337957b22a4078d020b2b0ab12f1ec011b3093280375a6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Индивидуальное поощрение; пункт 7 Указа № 763",
+      "determination": "Почётные грамоты и благодарности конкретным лицам и коллективам; нормы библиотеки не меняются.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020039",
+          "sha256": "d6f015b1fce85a08bb830f2fb1679e2fc9f9abc05f7f87b4069285c5b05886fd",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020031",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 411-рп (О назначении Ардабьевой Е.А. официальным представителем Президента Российской Федерации при рассмотрении палатами Федерального Собрания Российской Федерации вопроса о ратификации Договора между Российской Федерацией и Королевством Камбоджа о передаче лиц, осужденных к лишению свободы, подписанного в г. Казани)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020031",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "554fe9334e02522c95ba82b9bb74fb5ad266035eabd95be6891c3b3c3cadde3a",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 7 Указа № 763",
+      "determination": "Назначение представителя при ратификации договора с Камбоджей; не ратификация и не изменение кодекса.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020031",
+          "sha256": "89d2606225f445bee43741c08cef8b254db3b9ff25750dd825990a71928fecc7",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020030",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 410-рп (О назначении Ардабьевой Е.А. официальным представителем Президента Российской Федерации при рассмотрении палатами Федерального Собрания Российской Федерации вопроса о ратификации Договора между Российской Федерацией и Республикой Зимбабве о передаче для отбывания наказания лиц, осужденных к лишению свободы, подписанного в г. Москве и г. Хараре)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020030",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "aee11e457652a895efa920fe0c33617f502a272de257b80c6f415e083348a7f0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 7 Указа № 763",
+      "determination": "Назначение представителя при ратификации договора с Зимбабве; не ратификация и не изменение кодекса.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020030",
+          "sha256": "ea08c2d8e28d9100449198f92aa59016fe40bd8bbbef0551905cbd554520ddca",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020028",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 409-рп \"О подписании Договора между Российской Федерацией и Центральноафриканской Республикой о взаимной правовой помощи по уголовным делам\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020028",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "aa8a4355f7af313531c2e5a11804e5944ed7dc13980fbfb4ede49d4dfb1951e6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 7 Указа № 763",
+      "determination": "Поручение подписать договор с ЦАР о правовой помощи; не означает вступления договора в силу.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020028",
+          "sha256": "0066d5e2b84f8134da432e8b77be83be045f3f03f5aacdb5dd2579f337ce6117",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020053",
+      "title": "Указ Президента Российской Федерации от 02.11.2026 № 795 \"О назначении судей федеральных судов и о представителях Президента Российской Федерации в квалификационных коллегиях судей субъектов Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020053",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "875dbaa69ea96ce7b7003fa7070578d6c81cc824c9d6a109dd46841fd75a295f",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Индивидуальные назначения; пункт 7 Указа № 763",
+      "determination": "Назначения судей и представителей в квалификационных коллегиях; Конституция и процессуальные кодексы не меняются.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020053",
+          "sha256": "6336646967c98eaf4fb8d305894c9a49f6eb93fe25f45e30e91999aa104308ed",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202611020054",
+      "title": "Распоряжение Президента Российской Федерации от 02.11.2026 № 421-рп (О проведении 4 ноября 2026 г. в Московском Кремле церемонии вручения премии Президента Российской Федерации за вклад в укрепление единства российской нации и государственных наград Российской Федерации)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611020054",
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "metadataHash": "be875dad6289a209694704f7c6c10c759f8703aeea729aeac95f6a38917dc198",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-11-02",
+      "effectiveDateBasis": "Пункт 7 Указа № 763; церемония 04.11.2026",
+      "determination": "Организация церемонии; просмотрена публичная часть, пункт 3 помечен ДСП и не раскрыт. Обновления публичных норм библиотеки не выявлены.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202611020054",
+          "sha256": "bdf1f583953f5b444c189decbabb45a4ebf4f153e53c00ed6026ef2e2ab28d6b",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202610300001",
+      "title": "Указ Президента Российской Федерации от 30.10.2026 № 788 \"О награждении государственными наградами Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202610300001",
+      "publishedAt": "2026-10-29T21:00:00+00:00",
+      "metadataHash": "a74160763b99eb623d0335d5a0bf3f2f2ef2a5eeff1e3e07a40ba5967fe98cc5",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-10-30",
+      "effectiveDateBasis": "Индивидуальные награждения; пункт 7 Указа № 763",
+      "determination": "Награждения конкретных лиц и коллективов; нормы кодексов не меняются.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "http://publication.pravo.gov.ru/file/pdf?eoNumber=0001202610300001",
+          "sha256": "89fd1243a3947b4aa5d1fad35fcc53d94406a69782f055c3f225aa5bccf3dea7",
+          "transport": "official PDF over legacy HTTP; visually read; HTTPS portal unavailable; no statutory text imported from this transport"
+        }
+      ]
+    },
+    {
+      "id": "0001202610280001",
+      "title": "Постановление Конституционного Суда Российской Федерации от 27.10.2026 № 62-П по делу о проверке конституционности пункта 2 статьи 10, пунктов 1 и 6 статьи 13 Закона Российской Федерации \"О защите прав потребителей\", а также пункта 1 статьи 1 Федерального закона \"О внесении изменений в отдельные законодательные акты Российской Федерации и признании утратившими силу отдельных положений законодательных актов Российской Федерации в связи с принятием Федерального закона \"О потребительском кредите (займе)\" в связи с жалобой гражданки Осиповой Анастасии Владимировны",
+      "url": "https://publication.pravo.gov.ru/document/0001202610280001",
+      "publishedAt": "2026-10-27T21:00:00+00:00",
+      "metadataHash": "d7a2317f7daf02e9a922384808631633017cf180d508d36ac1aa6fd0b7633d5d",
+      "reason": "new-publication",
+      "sourceGroup": "court",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed",
+      "effectiveDate": "2026-10-28",
+      "effectiveDateBasis": "Пункт 4: со дня официального опубликования",
+      "determination": "КС 62-П: ограниченная неконституционность абзаца 4 пункта 2 статьи 10 потребительского закона. Связанные пояснения ГК 424 и 781, исключение для процессуального представительства. Производство по статье 13 и норме закона № 363-ФЗ прекращено; текст ГК не меняется.",
+      "reviewedOn": "2026-11-04",
+      "resolution": "scope-reviewed",
+      "sources": [
+        {
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_547710/",
+          "sha256": "31548500a6d8f2e754d7cb1408d4789ffe0bf78a1005f6b9d4c7d872d8ac03fe",
+          "transport": "HTTPS; reproduction of primary act, not publisher commentary"
+        }
+      ]
+    }
+  ],
+  "sourceLimitations": "Official publication HTTPS unavailable. Normative content checked against HTTPS reproductions of primary acts; individual-act scans read from the official legacy HTTP endpoint. Restricted paragraph of 421-рп not available and not reconstructed.",
+  "changedArticles": [
+    "civil-3:1151",
+    "civil-3:1155",
+    "civil-3:1162",
+    "civil-2:857",
+    "civil-1:424",
+    "civil-2:781",
+    "labour:302",
+    "civil-1:317",
+    "administrative-offences:2.5",
+    "land:27",
+    "land:39.10",
+    "land:39.16",
+    "land:39.23",
+    "land:70.1",
+    "land:87",
+    "land:93",
+    "budget:51",
+    "budget:57"
+  ],
+  "fullCurrentArticleChecks": [
+    {
+      "document": "civil-3",
+      "article": "1151",
+      "editionId": 475782,
+      "sourceSha256": "a311df6a81b1c792367d39de76ab9cdb80d82a63f1052394b60a37bab0d10755",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "civil-3",
+      "article": "1155",
+      "editionId": 475782,
+      "sourceSha256": "a311df6a81b1c792367d39de76ab9cdb80d82a63f1052394b60a37bab0d10755",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "civil-3",
+      "article": "1162",
+      "editionId": 475782,
+      "sourceSha256": "a311df6a81b1c792367d39de76ab9cdb80d82a63f1052394b60a37bab0d10755",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "civil-2",
+      "article": "857",
+      "editionId": 493400,
+      "sourceSha256": "751b5cd177fd1621f9120b664a6c4c5cb28a6d8d5d5fc27fb24718f8593f5def",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "civil-1",
+      "article": "424",
+      "editionId": 498756,
+      "sourceSha256": "cf6507eaea5f6f8e518abfab1e8fc3029efe32c4dc196a895f00d9c0b04910ee",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "civil-2",
+      "article": "781",
+      "editionId": 493400,
+      "sourceSha256": "751b5cd177fd1621f9120b664a6c4c5cb28a6d8d5d5fc27fb24718f8593f5def",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "labour",
+      "article": "302",
+      "editionId": 492286,
+      "sourceSha256": "df8bc46c1d1525c9c56612ae9fa43f1d0c56b0746ae9f8368455b5927b5762af",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "civil-1",
+      "article": "317",
+      "editionId": 498756,
+      "sourceSha256": "cf6507eaea5f6f8e518abfab1e8fc3029efe32c4dc196a895f00d9c0b04910ee",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "administrative-offences",
+      "article": "2.5",
+      "editionId": 496101,
+      "sourceSha256": "9c15c5b3ffd9e51c323a7f1b0cd70cdbdf2d981cb48a8735db96aad1fcbf7639",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "land",
+      "article": "27",
+      "editionId": 486035,
+      "sourceSha256": "874c6c0ab36a6a1171974ec201bbe3bcb816908d848f6ffc3d238a1ecaee9bf1",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "land",
+      "article": "39.10",
+      "editionId": 486035,
+      "sourceSha256": "874c6c0ab36a6a1171974ec201bbe3bcb816908d848f6ffc3d238a1ecaee9bf1",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "land",
+      "article": "39.16",
+      "editionId": 486035,
+      "sourceSha256": "874c6c0ab36a6a1171974ec201bbe3bcb816908d848f6ffc3d238a1ecaee9bf1",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "land",
+      "article": "39.23",
+      "editionId": 486035,
+      "sourceSha256": "874c6c0ab36a6a1171974ec201bbe3bcb816908d848f6ffc3d238a1ecaee9bf1",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "land",
+      "article": "70.1",
+      "editionId": 486035,
+      "sourceSha256": "874c6c0ab36a6a1171974ec201bbe3bcb816908d848f6ffc3d238a1ecaee9bf1",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "land",
+      "article": "87",
+      "editionId": 486035,
+      "sourceSha256": "874c6c0ab36a6a1171974ec201bbe3bcb816908d848f6ffc3d238a1ecaee9bf1",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "land",
+      "article": "93",
+      "editionId": 486035,
+      "sourceSha256": "874c6c0ab36a6a1171974ec201bbe3bcb816908d848f6ffc3d238a1ecaee9bf1",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "budget",
+      "article": "51",
+      "editionId": 498752,
+      "sourceSha256": "870b3a517f0a1aec88304272ce7cfd6ec04969168cfd7838f2e47c5f0aff5474",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    },
+    {
+      "document": "budget",
+      "article": "57",
+      "editionId": 498752,
+      "sourceSha256": "870b3a517f0a1aec88304272ce7cfd6ec04969168cfd7838f2e47c5f0aff5474",
+      "comparison": "Full operative text equal after punctuation normalization and exclusion of explicit repealed placeholders"
+    }
+  ],
+  "statutoryTextChanged": false,
+  "payloadSha256": "42066692996696eb78ced58b91136f28ad7eb32ab2741a811fbfed593f7aa8e9",
+  "signatureVerifiedWithAppPublicKey": true,
+  "payloadBytes": 54493176
+}
