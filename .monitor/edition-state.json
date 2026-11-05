@@ -159,8 +159,8 @@
       "futureEditions": []
     },
     "civil-3": {
-      "editionId": 475782,
-      "editionDate": "20250715",
+      "editionId": 498859,
+      "editionDate": "20261102",
       "officialBodyReady": true,
       "futureEditions": []
     },
@@ -472,6 +472,38 @@
       "reviewDisposition": "prepared-awaiting-effective-date",
       "effectiveDate": "2026-11-13",
       "preparedTextUrl": "https://raw.githubusercontent.com/Solich4/law-library-updates/main/materials/future-2026-11-13-review.json"
+    },
+    "civil-3:active-edition-changed:498859:": {
+      "document": "civil-3",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 475782,
+        "editionDate": "20250715",
+        "officialBodyReady": true,
+        "futureEditions": []
+      },
+      "observed": {
+        "editionId": 498859,
+        "editionDate": "20261102",
+        "officialBodyReady": true,
+        "futureEditions": []
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        498859
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 498859,
+          "editionDate": "20261102",
+          "future": false,
+          "changes": [],
+          "sourceSha256": "a77d5067331d2a781e58608dbdedab6b1b7a6f952f733bc9b9989ec0f096c66b"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 475782
     }
   }
 }

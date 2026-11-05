@@ -2,6 +2,11 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611050044": "3b78f26d452268081406f3f7da929bfdfba92d3334626b8ba8ec593b1baf87ec",
+        "0001202611050005": "d4d92468dab68924787f47889d794928f6932fca9a527725b84d644847aae92e",
+        "0001202611050002": "4e8a59f959690ff48df628e95b9c8f1a93fc61bc20ea9523c5bee33f2745bfc9",
+        "0001202611050003": "b9f8bfe696e312b8a6bd55e3373c1ef937671ca1205461f6eacb22b2c2f6f2c6",
+        "0001202611050004": "29ad7a6c56e38e6ef5244e5c3e82d9717873dc6888bd0bc645982c1838114d2f",
         "0001202611040001": "3a1db5991c8c268c75eeb15cb51452f552249a6bb4d42900aa58f4a871e2385e",
         "0001202611030003": "2224121454751c8158960a4e2ce4f072399487ba0c134d3d1e5a1b71f8029200",
         "0001202611030002": "f29d86b73c17fa11383b2a6a052d04b37f6047bdfe9cd46214609d55a3d5178d",
@@ -196,12 +201,7 @@
         "0001202608060013": "a7011427753d6feefd89c4dffc3685e7b0ee87b73227c306fd8bfd03f826e0b2",
         "0001202608040002": "fdd73ba074aa956cb6ba2887f6e1bc8f37efc99a7a2eae48da3c68988f15d11a",
         "0001202608040001": "3706e13577ccafb680528755d684840fe180a40b6921c767870d6ac7f59bd6cc",
-        "0001202608040078": "582873406cdbdcefeaf351fdcbbf54d795457b9ac2075922ba55d639767fcff3",
-        "0001202608040076": "732fdb46cd029aa56b69e8f2136d9089af5275033ba6acdf781827581dd7b6e4",
-        "0001202608040077": "ebc7e02e9ad94818e4ce0e5cb4ad56b8ee9ac7c1c60a4de2c14aa6b1cfa6f6c2",
-        "0001202608040074": "3ddb7d85bc5af14cb18e2f297a9662aa8b2372b1b43940d84446317eca7bd52b",
-        "0001202608040075": "0a62a1246b4cb1bd4cd56066c789c8096c820810532099ffaee0814cae45cf7d",
-        "0001202608040072": "ec61a02f50e7bf85a4674b9161a2d8f01c66b7085c782b889d54937803c0dc76"
+        "0001202608040078": "582873406cdbdcefeaf351fdcbbf54d795457b9ac2075922ba55d639767fcff3"
       }
     },
     "court": {
@@ -416,6 +416,56 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611040001",
       "publishedAt": "2026-11-03T21:00:00+00:00",
       "metadataHash": "3a1db5991c8c268c75eeb15cb51452f552249a6bb4d42900aa58f4a871e2385e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611050044": {
+      "id": "0001202611050044",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 822 \"О внесении изменений в некоторые акты Президента Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050044",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "3b78f26d452268081406f3f7da929bfdfba92d3334626b8ba8ec593b1baf87ec",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611050005": {
+      "id": "0001202611050005",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 821 \"О некоторых вопросах Совета при Президенте Российской Федерации по развитию физической культуры и спорта\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050005",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "d4d92468dab68924787f47889d794928f6932fca9a527725b84d644847aae92e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611050002": {
+      "id": "0001202611050002",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 817 \"О внесении изменений в перечень движимого и недвижимого имущества, ценных бумаг, долей в уставных (складочных) капиталах российских юридических лиц и имущественных прав, в отношении которых вводится временное управление, утвержденный Указом Президента Российской Федерации от 25 апреля 2023 г. № 302\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050002",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "4e8a59f959690ff48df628e95b9c8f1a93fc61bc20ea9523c5bee33f2745bfc9",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611050003": {
+      "id": "0001202611050003",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 816 \"О внесении изменений в некоторые указы Президента Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050003",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "b9f8bfe696e312b8a6bd55e3373c1ef937671ca1205461f6eacb22b2c2f6f2c6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611050004": {
+      "id": "0001202611050004",
+      "title": "Распоряжение Президента Российской Федерации от 05.11.2026 № 427-рп \"О руководителях комиссий Совета при Президенте Российской Федерации по развитию физической культуры и спорта\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050004",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "29ad7a6c56e38e6ef5244e5c3e82d9717873dc6888bd0bc645982c1838114d2f",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T06:42:48.586854+00:00",
+  "checkedAt": "2026-11-05T19:55:37.160723+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -10,6 +10,56 @@
   "monitoringSince": "2026-10-23",
   "problems": [],
   "pendingReview": [
+    {
+      "id": "0001202611050044",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 822 \"О внесении изменений в некоторые акты Президента Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050044",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "3b78f26d452268081406f3f7da929bfdfba92d3334626b8ba8ec593b1baf87ec",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611050005",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 821 \"О некоторых вопросах Совета при Президенте Российской Федерации по развитию физической культуры и спорта\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050005",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "d4d92468dab68924787f47889d794928f6932fca9a527725b84d644847aae92e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611050002",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 817 \"О внесении изменений в перечень движимого и недвижимого имущества, ценных бумаг, долей в уставных (складочных) капиталах российских юридических лиц и имущественных прав, в отношении которых вводится временное управление, утвержденный Указом Президента Российской Федерации от 25 апреля 2023 г. № 302\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050002",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "4e8a59f959690ff48df628e95b9c8f1a93fc61bc20ea9523c5bee33f2745bfc9",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611050003",
+      "title": "Указ Президента Российской Федерации от 05.11.2026 № 816 \"О внесении изменений в некоторые указы Президента Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050003",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "b9f8bfe696e312b8a6bd55e3373c1ef937671ca1205461f6eacb22b2c2f6f2c6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611050004",
+      "title": "Распоряжение Президента Российской Федерации от 05.11.2026 № 427-рп \"О руководителях комиссий Совета при Президенте Российской Федерации по развитию физической культуры и спорта\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611050004",
+      "publishedAt": "2026-11-04T21:00:00+00:00",
+      "metadataHash": "29ad7a6c56e38e6ef5244e5c3e82d9717873dc6888bd0bc645982c1838114d2f",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
     {
       "id": "0001202611040001",
       "title": "Указ Президента Российской Федерации от 04.11.2026 № 815 \"О присвоении дипломатических рангов\"",
