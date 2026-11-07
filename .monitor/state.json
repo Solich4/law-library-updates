@@ -2,6 +2,7 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611060040": "0c86ee321c21dd75c040437591296fead0d2e50458dafa4782dcef516a2dabc2",
         "0001202611060017": "fff6c028dc4f26586e64463d36d3e33ad76dbea01b4bfb3a517b8db887843e8b",
         "0001202611060015": "16fa0693774bd20efd4d12d50c6523c674669f07575816c3eb97ce7f219793d7",
         "0001202611060013": "391dbcd7da468ddb8b846c1462503efe4bb793b68fc0f0c8fba9fbd4a91ff67c",
@@ -200,8 +201,7 @@
         "0001202608060018": "1e61adce2bf3eb2d89e6fdeeaf0258611430004294f61a1dc8ae44212dfa81b2",
         "0001202608060016": "1f8c7b113710e79261a3d92f0fbaf560252c9e5e0f91675a785265801761821e",
         "0001202608060015": "c63444c01ccf96899d22120185076648ee35d0eefa947f1831d3251970012141",
-        "0001202608060014": "bda01ae2b8ce8e324dbf4244dff7fc837bcba1527da38dcc74b1b222ed75995a",
-        "0001202608060023": "165aaf0bad0d2104d8d9cacefd44655974ab32c3385b531370fe92b3f6b198c2"
+        "0001202608060014": "bda01ae2b8ce8e324dbf4244dff7fc837bcba1527da38dcc74b1b222ed75995a"
       }
     },
     "court": {
@@ -528,6 +528,16 @@
       "metadataHash": "4fb9a3b63a99fccfeccd56b5b88447bb1ac5572e5483c5bb7b167386d50d5e23",
       "reason": "new-publication",
       "sourceGroup": "court",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611060040": {
+      "id": "0001202611060040",
+      "title": "Указ Президента Российской Федерации от 06.11.2026 № 832 \"О внесении изменений в перечень движимого и недвижимого имущества, ценных бумаг, долей в уставных (складочных) капиталах российских юридических лиц и имущественных прав, в отношении которых вводится временное управление, утвержденный Указом Президента Российской Федерации от 25 апреля 2023 г. № 302\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611060040",
+      "publishedAt": "2026-11-05T21:00:00+00:00",
+      "metadataHash": "0c86ee321c21dd75c040437591296fead0d2e50458dafa4782dcef516a2dabc2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
     }
   }

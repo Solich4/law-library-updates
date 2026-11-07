@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T19:22:48.344227+00:00",
+  "checkedAt": "2026-11-07T05:56:32.555519+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -68,6 +68,16 @@
       "metadataHash": "4fb9a3b63a99fccfeccd56b5b88447bb1ac5572e5483c5bb7b167386d50d5e23",
       "reason": "new-publication",
       "sourceGroup": "court",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611060040",
+      "title": "Указ Президента Российской Федерации от 06.11.2026 № 832 \"О внесении изменений в перечень движимого и недвижимого имущества, ценных бумаг, долей в уставных (складочных) капиталах российских юридических лиц и имущественных прав, в отношении которых вводится временное управление, утвержденный Указом Президента Российской Федерации от 25 апреля 2023 г. № 302\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611060040",
+      "publishedAt": "2026-11-05T21:00:00+00:00",
+      "metadataHash": "0c86ee321c21dd75c040437591296fead0d2e50458dafa4782dcef516a2dabc2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
     },
     {
