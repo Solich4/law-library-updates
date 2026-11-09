@@ -2,6 +2,13 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611090006": "5941d1513719df9970f754a2bf693341e93babea4848c6c0de8280200d2280d3",
+        "0001202611090007": "79e2a811789f1b4d2e2d224c06ceda6ad7dcfd708c7b03c7c1d66b1455c4c2f6",
+        "0001202611090005": "0f3b4d74e1d1b08d58fde61eac94986546301ce435d9fa05aac67db824ed6858",
+        "0001202611090004": "0ed5aa67386319c7657709687dbce33dd820467f5691c0e3441e750dd24c01b1",
+        "0001202611090003": "bcc4fa9b85e046ddf5155bab85628d45aa80f2de452da748119abb64106da15c",
+        "0001202611090002": "bc025c5d42179bb8854163d3867e7abc409561a9cb3b1ded6c0c8d2bfe3ea0d9",
+        "0001202611090001": "688a8ae6f32baabe8f6a965f667748d5bf2485dc5ce6808a4c9de9e3506529a8",
         "0001202611060040": "0c86ee321c21dd75c040437591296fead0d2e50458dafa4782dcef516a2dabc2",
         "0001202611060017": "fff6c028dc4f26586e64463d36d3e33ad76dbea01b4bfb3a517b8db887843e8b",
         "0001202611060015": "16fa0693774bd20efd4d12d50c6523c674669f07575816c3eb97ce7f219793d7",
@@ -194,14 +201,7 @@
         "0001202608120020": "ef1cd2634434086ffaec3995a02270b4eac70eb780d813ef4e46e0a4efbb36f9",
         "0001202608120001": "e07ae31b96d5622e923534655ea07ded39b12953c8f9b4c43a241c9db04da8d1",
         "0001202608070002": "4ee14d5df4644ee73e011dd58b006a396cabeb2203f714716c9aa8dd0e958e40",
-        "0001202608060020": "9c16c043b18c417ad9f0f5b378f1387615303d3259d61c3d8c21a2ab270db687",
-        "0001202608060019": "ec8d67114a39e9733c7c1c3ce740ca7b01f4c5a3d432c5ad60209b2e61dbdd54",
-        "0001202608060022": "4db05b1b6e707d8a567f0195ccc2dcd259b1e379aa3072740a97443a310e637e",
-        "0001202608060017": "8ef8a09b7ebae8ac3d3a9458889bf8a7089d2a5ffde65a6239093bb05701547d",
-        "0001202608060018": "1e61adce2bf3eb2d89e6fdeeaf0258611430004294f61a1dc8ae44212dfa81b2",
-        "0001202608060016": "1f8c7b113710e79261a3d92f0fbaf560252c9e5e0f91675a785265801761821e",
-        "0001202608060015": "c63444c01ccf96899d22120185076648ee35d0eefa947f1831d3251970012141",
-        "0001202608060014": "bda01ae2b8ce8e324dbf4244dff7fc837bcba1527da38dcc74b1b222ed75995a"
+        "0001202608060020": "9c16c043b18c417ad9f0f5b378f1387615303d3259d61c3d8c21a2ab270db687"
       }
     },
     "court": {
@@ -536,6 +536,76 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611060040",
       "publishedAt": "2026-11-05T21:00:00+00:00",
       "metadataHash": "0c86ee321c21dd75c040437591296fead0d2e50458dafa4782dcef516a2dabc2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611090006": {
+      "id": "0001202611090006",
+      "title": "Указ Президента Российской Федерации от 09.11.2026 № 838 \"О Богомолове К.С.\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611090006",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "metadataHash": "5941d1513719df9970f754a2bf693341e93babea4848c6c0de8280200d2280d3",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611090007": {
+      "id": "0001202611090007",
+      "title": "Указ Президента Российской Федерации от 09.11.2026 № 837 \"О некоторых вопросах деятельности федерального государственного бюджетного образовательного учреждения высшего образования \"Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611090007",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "metadataHash": "79e2a811789f1b4d2e2d224c06ceda6ad7dcfd708c7b03c7c1d66b1455c4c2f6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611090005": {
+      "id": "0001202611090005",
+      "title": "Указ Президента Российской Федерации от 09.11.2026 № 836 \"О праздновании 100-летия основания Санкт-Петербургского государственного морского технического университета\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611090005",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "metadataHash": "0f3b4d74e1d1b08d58fde61eac94986546301ce435d9fa05aac67db824ed6858",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611090004": {
+      "id": "0001202611090004",
+      "title": "Указ Президента Российской Федерации от 09.11.2026 № 835 \"О внесении изменений в состав Общественной комиссии при Президенте Российской Федерации по определению кандидатур на присуждение Государственной премии Российской Федерации за выдающиеся достижения в области правозащитной деятельности и Государственной премии Российской Федерации за выдающиеся достижения в области благотворительной деятельности, утвержденный Указом Президента Российской Федерации от 5 ноября 2025 г. № 812\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611090004",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "metadataHash": "0ed5aa67386319c7657709687dbce33dd820467f5691c0e3441e750dd24c01b1",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611090003": {
+      "id": "0001202611090003",
+      "title": "Указ Президента Российской Федерации от 09.11.2026 № 834 \"О награждении государственными наградами Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611090003",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "metadataHash": "bcc4fa9b85e046ddf5155bab85628d45aa80f2de452da748119abb64106da15c",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611090002": {
+      "id": "0001202611090002",
+      "title": "Распоряжение Президента Российской Федерации от 09.11.2026 № 433-рп \"О внесении изменений в состав межведомственной рабочей группы по противодействию незаконным финансовым операциям, утвержденный распоряжением Президента Российской Федерации от 30 июля 2018 г. № 205-рп\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611090002",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "metadataHash": "bc025c5d42179bb8854163d3867e7abc409561a9cb3b1ded6c0c8d2bfe3ea0d9",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611090001": {
+      "id": "0001202611090001",
+      "title": "Распоряжение Президента Российской Федерации от 09.11.2026 № 432-рп (О назначении Ардабьевой Е.А. официальным представителем Президента Российской Федерации при рассмотрении палатами Федерального Собрания Российской Федерации вопроса о ратификации Соглашения между Российской Федерацией и Республикой Зимбабве о взаимной защите граждан от злоупотреблений в сфере международной юстиции)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611090001",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "metadataHash": "688a8ae6f32baabe8f6a965f667748d5bf2485dc5ce6808a4c9de9e3506529a8",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
