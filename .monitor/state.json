@@ -2,6 +2,9 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611100003": "015b84ffc7aff417330d86f71824b5aced981b9c8742d0ee0ad92359efe9fa2d",
+        "0001202611100002": "3328c026653719200d01e74bb83c439e1dc58e3615f52acf1397ccfdcfc206e3",
+        "0001202611100001": "484c08d98465e1ddc81b7d11135b64d2d248421b72eb09f6fb5762b6a010b619",
         "0001202611090006": "5941d1513719df9970f754a2bf693341e93babea4848c6c0de8280200d2280d3",
         "0001202611090007": "79e2a811789f1b4d2e2d224c06ceda6ad7dcfd708c7b03c7c1d66b1455c4c2f6",
         "0001202611090005": "0f3b4d74e1d1b08d58fde61eac94986546301ce435d9fa05aac67db824ed6858",
@@ -198,10 +201,7 @@
         "0001202608210019": "ff0b21e4ff8680d0504d5ae0f93c2c0ce399c080edeb4e2754f3af9de72717dd",
         "0001202608150002": "b5449cbd7b81d9cf86ea2f4727ea9b0d71e0ecd35f565101d400142389cf4648",
         "0001202608150001": "e29ba8672e6dac942e14f868c06f82910dc175724babf6129e99e20f624834f1",
-        "0001202608120020": "ef1cd2634434086ffaec3995a02270b4eac70eb780d813ef4e46e0a4efbb36f9",
-        "0001202608120001": "e07ae31b96d5622e923534655ea07ded39b12953c8f9b4c43a241c9db04da8d1",
-        "0001202608070002": "4ee14d5df4644ee73e011dd58b006a396cabeb2203f714716c9aa8dd0e958e40",
-        "0001202608060020": "9c16c043b18c417ad9f0f5b378f1387615303d3259d61c3d8c21a2ab270db687"
+        "0001202608120020": "ef1cd2634434086ffaec3995a02270b4eac70eb780d813ef4e46e0a4efbb36f9"
       }
     },
     "court": {
@@ -606,6 +606,36 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611090001",
       "publishedAt": "2026-11-08T21:00:00+00:00",
       "metadataHash": "688a8ae6f32baabe8f6a965f667748d5bf2485dc5ce6808a4c9de9e3506529a8",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611100003": {
+      "id": "0001202611100003",
+      "title": "Указ Президента Российской Федерации от 10.11.2026 № 841 \"О Чрезвычайном и Полномочном После Российской Федерации в Габонской Республике\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611100003",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "metadataHash": "015b84ffc7aff417330d86f71824b5aced981b9c8742d0ee0ad92359efe9fa2d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611100002": {
+      "id": "0001202611100002",
+      "title": "Указ Президента Российской Федерации от 10.11.2026 № 840 \"О Чрезвычайном и Полномочном После Российской Федерации в Республике Ботсвана\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611100002",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "metadataHash": "3328c026653719200d01e74bb83c439e1dc58e3615f52acf1397ccfdcfc206e3",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611100001": {
+      "id": "0001202611100001",
+      "title": "Указ Президента Российской Федерации от 10.11.2026 № 839 \"О Кемарском А.В.\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611100001",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "metadataHash": "484c08d98465e1ddc81b7d11135b64d2d248421b72eb09f6fb5762b6a010b619",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"

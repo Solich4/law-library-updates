@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T07:14:29.203055+00:00",
+  "checkedAt": "2026-11-10T19:42:37.966626+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -10,6 +10,36 @@
   "monitoringSince": "2026-10-23",
   "problems": [],
   "pendingReview": [
+    {
+      "id": "0001202611100003",
+      "title": "Указ Президента Российской Федерации от 10.11.2026 № 841 \"О Чрезвычайном и Полномочном После Российской Федерации в Габонской Республике\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611100003",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "metadataHash": "015b84ffc7aff417330d86f71824b5aced981b9c8742d0ee0ad92359efe9fa2d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611100002",
+      "title": "Указ Президента Российской Федерации от 10.11.2026 № 840 \"О Чрезвычайном и Полномочном После Российской Федерации в Республике Ботсвана\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611100002",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "metadataHash": "3328c026653719200d01e74bb83c439e1dc58e3615f52acf1397ccfdcfc206e3",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611100001",
+      "title": "Указ Президента Российской Федерации от 10.11.2026 № 839 \"О Кемарском А.В.\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611100001",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "metadataHash": "484c08d98465e1ddc81b7d11135b64d2d248421b72eb09f6fb5762b6a010b619",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
     {
       "id": "0001202611090006",
       "title": "Указ Президента Российской Федерации от 09.11.2026 № 838 \"О Богомолове К.С.\"",
