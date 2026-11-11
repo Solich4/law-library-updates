@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T19:42:37.966626+00:00",
+  "checkedAt": "2026-11-11T06:11:26.974789+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -36,6 +36,16 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611100001",
       "publishedAt": "2026-11-09T21:00:00+00:00",
       "metadataHash": "484c08d98465e1ddc81b7d11135b64d2d248421b72eb09f6fb5762b6a010b619",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611100028",
+      "title": "Указ Президента Российской Федерации от 10.11.2026 № 845 \"О присвоении звания Героя Труда Российской Федерации Гинцбургу А.Л.\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611100028",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "metadataHash": "2ccb86555558c299d8d738edc529caeceb3a32c736cab25aac7d6eea5abdd1c6",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
