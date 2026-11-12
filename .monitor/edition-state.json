@@ -59,17 +59,13 @@
       ]
     },
     "land": {
-      "editionId": 486035,
-      "editionDate": "20260901",
+      "editionId": 498750,
+      "editionDate": "20261113",
       "officialBodyReady": true,
       "futureEditions": [
         {
           "editionId": 496107,
           "editionDate": "20270901"
-        },
-        {
-          "editionId": 498750,
-          "editionDate": "20261113"
         }
       ]
     },
@@ -176,8 +172,8 @@
       ]
     },
     "budget": {
-      "editionId": 498752,
-      "editionDate": "20261023",
+      "editionId": 498753,
+      "editionDate": "20261113",
       "officialBodyReady": true,
       "futureEditions": [
         {
@@ -195,10 +191,6 @@
         {
           "editionId": 494249,
           "editionDate": "20270101"
-        },
-        {
-          "editionId": 498753,
-          "editionDate": "20261113"
         }
       ]
     },
@@ -504,6 +496,160 @@
       ],
       "comparisonBasis": "technical-source-comparison-unreviewed",
       "baselineEditionId": 475782
+    },
+    "land:active-edition-changed:498750:496107": {
+      "document": "land",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 486035,
+        "editionDate": "20260901",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 496107,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 498750,
+            "editionDate": "20261113"
+          }
+        ]
+      },
+      "observed": {
+        "editionId": 498750,
+        "editionDate": "20261113",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 496107,
+            "editionDate": "20270901"
+          }
+        ]
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        498750
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 498750,
+          "editionDate": "20261113",
+          "future": false,
+          "changes": [
+            {
+              "article": "27",
+              "kind": "changed"
+            },
+            {
+              "article": "39.10",
+              "kind": "changed"
+            },
+            {
+              "article": "39.16",
+              "kind": "changed"
+            },
+            {
+              "article": "39.23",
+              "kind": "changed"
+            },
+            {
+              "article": "70.1",
+              "kind": "changed"
+            },
+            {
+              "article": "87",
+              "kind": "changed"
+            },
+            {
+              "article": "93",
+              "kind": "changed"
+            }
+          ],
+          "sourceSha256": "0f614c6ba3687af1a80db124ce9db3c4a55ea0b4cdd1027d1b8d364cd2f6f363"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 486035
+    },
+    "budget:active-edition-changed:498753:483532,483533,494247,494249": {
+      "document": "budget",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 498752,
+        "editionDate": "20261023",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 483532,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 483533,
+            "editionDate": "20280101"
+          },
+          {
+            "editionId": 494247,
+            "editionDate": "20261201"
+          },
+          {
+            "editionId": 494249,
+            "editionDate": "20270101"
+          },
+          {
+            "editionId": 498753,
+            "editionDate": "20261113"
+          }
+        ]
+      },
+      "observed": {
+        "editionId": 498753,
+        "editionDate": "20261113",
+        "officialBodyReady": true,
+        "futureEditions": [
+          {
+            "editionId": 483532,
+            "editionDate": "20270901"
+          },
+          {
+            "editionId": 483533,
+            "editionDate": "20280101"
+          },
+          {
+            "editionId": 494247,
+            "editionDate": "20261201"
+          },
+          {
+            "editionId": 494249,
+            "editionDate": "20270101"
+          }
+        ]
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        498753
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 498753,
+          "editionDate": "20261113",
+          "future": false,
+          "changes": [
+            {
+              "article": "51",
+              "kind": "changed"
+            },
+            {
+              "article": "57",
+              "kind": "changed"
+            }
+          ],
+          "sourceSha256": "bca3140cee5f10454955193922377a4abda6336436a8f745bdb578dd0996cc6e"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 498752
     }
   }
 }
