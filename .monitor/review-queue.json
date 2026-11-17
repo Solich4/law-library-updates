@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-17T07:52:19.349398+00:00",
+  "checkedAt": "2026-11-17T20:52:50.040989+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -10,6 +10,96 @@
   "monitoringSince": "2026-10-23",
   "problems": [],
   "pendingReview": [
+    {
+      "id": "0001202611170018",
+      "title": "Федеральный закон от 17.11.2026 № 356-ФЗ \"О ратификации Договора между Российской Федерацией и Республикой Никарагуа о выдаче\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170018",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "70877a09a27dcf98c58beecd1f3c7d592564d713af9381dba21b993638c5eb47",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170017",
+      "title": "Федеральный закон от 17.11.2026 № 355-ФЗ \"О ратификации Соглашения между Российской Федерацией и Королевством Камбоджа о взаимной защите граждан в области международной уголовной юстиции\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170017",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "0b0ab427bbb8a44938e97447d0e5c9abe160ccb7bd8014e19d30b9ac2712f9cf",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170016",
+      "title": "Федеральный закон от 17.11.2026 № 354-ФЗ \"О ратификации Договора между Российской Федерацией и Республикой Зимбабве о взаимной правовой помощи по уголовным делам\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170016",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "d49ff7c1141e585edf050364461d120bfc0b292b01cb04a03cb3445961a1d13c",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170015",
+      "title": "Федеральный закон от 17.11.2026 № 353-ФЗ \"О ратификации Договора между Российской Федерацией и Республикой Никарагуа о передаче для отбывания наказания лиц, осужденных к лишению свободы\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170015",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "31450ff5013f9f8a546cf0d5efd85309a927612500eed998a35f95e902de9ad7",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170014",
+      "title": "Федеральный закон от 17.11.2026 № 352-ФЗ \"О ратификации Соглашения между Российской Федерацией и Республикой Южная Осетия о взаимном зачете в выслугу лет службы в таможенных органах Российской Федерации и Республики Южная Осетия\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170014",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "e149a26cd25dd2b0b5fe1415c6503e61a19ccd6ecc1b0f819f4974f4833038e2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170012",
+      "title": "Федеральный закон от 17.11.2026 № 351-ФЗ \"О ратификации Протокола о внесении изменений в Договор между Российской Федерацией и Республикой Беларусь об общих принципах налогообложения по косвенным налогам от 3 октября 2022 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170012",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "0a48179442b19b1cdd340a1e6c4bf288793f9a7171d890d4c5b2015ba7708bc2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170020",
+      "title": "Указ Президента Российской Федерации от 17.11.2026 № 852 \"О внесении изменения в Указ Президента Российской Федерации от 18 февраля 2026 г. № 101 \"О членах наблюдательного совета автономной некоммерческой организации \"Агентство стратегических инициатив по продвижению новых проектов\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170020",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "d80ef8142431d29264b5ead834fa0026908e9f93cf9865ab5e2c1329876a8993",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170019",
+      "title": "Указ Президента Российской Федерации от 17.11.2026 № 850 \"О заместителе Генерального прокурора Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170019",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "c57648cef3d8bd79c70898eae88f8f8667ecc43291ce3637ba1745e3750bc78b",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611170021",
+      "title": "Распоряжение Президента Российской Федерации от 17.11.2026 № 434-рп \"О внесении изменений в состав специальной рабочей группы по координации деятельности институтов развития Совета при Президенте Российской Федерации по стратегическому развитию и национальным проектам и в перечень институтов развития, утвержденные распоряжением Президента Российской Федерации от 5 июня 2025 г. № 222-рп\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170021",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "8f7997e14081ec39c648a606ce3dd5455321a70524c4fbff4820835ae435f0a7",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
     {
       "id": "0001202611140001",
       "title": "Указ Президента Российской Федерации от 14.11.2026 № 848 \"О помиловании Чекалиной В.В.\"",

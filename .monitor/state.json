@@ -2,6 +2,15 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611170018": "70877a09a27dcf98c58beecd1f3c7d592564d713af9381dba21b993638c5eb47",
+        "0001202611170017": "0b0ab427bbb8a44938e97447d0e5c9abe160ccb7bd8014e19d30b9ac2712f9cf",
+        "0001202611170016": "d49ff7c1141e585edf050364461d120bfc0b292b01cb04a03cb3445961a1d13c",
+        "0001202611170015": "31450ff5013f9f8a546cf0d5efd85309a927612500eed998a35f95e902de9ad7",
+        "0001202611170014": "e149a26cd25dd2b0b5fe1415c6503e61a19ccd6ecc1b0f819f4974f4833038e2",
+        "0001202611170012": "0a48179442b19b1cdd340a1e6c4bf288793f9a7171d890d4c5b2015ba7708bc2",
+        "0001202611170020": "d80ef8142431d29264b5ead834fa0026908e9f93cf9865ab5e2c1329876a8993",
+        "0001202611170019": "c57648cef3d8bd79c70898eae88f8f8667ecc43291ce3637ba1745e3750bc78b",
+        "0001202611170021": "8f7997e14081ec39c648a606ce3dd5455321a70524c4fbff4820835ae435f0a7",
         "0001202611140001": "d775f00f631b84638b0023d14611e5c5e99dd06c5b5e346c7c3e1c6476b5275e",
         "0001202611100028": "2ccb86555558c299d8d738edc529caeceb3a32c736cab25aac7d6eea5abdd1c6",
         "0001202611100003": "015b84ffc7aff417330d86f71824b5aced981b9c8742d0ee0ad92359efe9fa2d",
@@ -192,16 +201,7 @@
         "0001202608240007": "8e58cffadfac0cbce5fbe1a2007194501a4326eb57ae0f6605889525e0d13501",
         "0001202608240003": "a6c8d0d289dedae63c3db29d9df10cf776bdcd08234349e65a031a254e4bc83c",
         "0001202608240006": "ebd4ffa4c7d52b62a02d13de1a17fbe8a595aec5d8312bcb22fc5c2b155e3a25",
-        "0001202608240004": "e9cfb1f6bd26a7bcf0d229954bf0382e4b5f485e2e08a2c98a1ebd79a8dddd12",
-        "0001202608240002": "4d02b5d7c30bdfbfb4eab9d0f9237a8a0f7081cdaf335e9f8bd730bbd5f1440a",
-        "0001202608240008": "9188f098831bb9579e45a958e16853a0df46022f51364073576ec22fc82a00ee",
-        "0001202608240012": "602e2ef53d71e09cfbd3f841d6eb1926c50f71dbed41b46743c0ef765eeafedd",
-        "0001202608240011": "5b58a052eab45c29fe8bf1b232a9dee627fb5ef8936a8fa2e79f17e647e01ac1",
-        "0001202608240010": "348e662f9900da612fea317e97d26a5cb03067ecb061322e0154fb9087b74baf",
-        "0001202608240015": "0cadfc8ffe6c2b06877c059cdde92a71b9649910f83fb402657ca4be0433e47b",
-        "0001202608240001": "4aa96360b0177c00c6ecd8bcbf4542462076952bc3899c55af305c710787f687",
-        "0001202608210019": "ff0b21e4ff8680d0504d5ae0f93c2c0ce399c080edeb4e2754f3af9de72717dd",
-        "0001202608150002": "b5449cbd7b81d9cf86ea2f4727ea9b0d71e0ecd35f565101d400142389cf4648"
+        "0001202608240004": "e9cfb1f6bd26a7bcf0d229954bf0382e4b5f485e2e08a2c98a1ebd79a8dddd12"
       }
     },
     "court": {
@@ -666,6 +666,96 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611140001",
       "publishedAt": "2026-11-13T21:00:00+00:00",
       "metadataHash": "d775f00f631b84638b0023d14611e5c5e99dd06c5b5e346c7c3e1c6476b5275e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170018": {
+      "id": "0001202611170018",
+      "title": "Федеральный закон от 17.11.2026 № 356-ФЗ \"О ратификации Договора между Российской Федерацией и Республикой Никарагуа о выдаче\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170018",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "70877a09a27dcf98c58beecd1f3c7d592564d713af9381dba21b993638c5eb47",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170017": {
+      "id": "0001202611170017",
+      "title": "Федеральный закон от 17.11.2026 № 355-ФЗ \"О ратификации Соглашения между Российской Федерацией и Королевством Камбоджа о взаимной защите граждан в области международной уголовной юстиции\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170017",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "0b0ab427bbb8a44938e97447d0e5c9abe160ccb7bd8014e19d30b9ac2712f9cf",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170016": {
+      "id": "0001202611170016",
+      "title": "Федеральный закон от 17.11.2026 № 354-ФЗ \"О ратификации Договора между Российской Федерацией и Республикой Зимбабве о взаимной правовой помощи по уголовным делам\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170016",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "d49ff7c1141e585edf050364461d120bfc0b292b01cb04a03cb3445961a1d13c",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170015": {
+      "id": "0001202611170015",
+      "title": "Федеральный закон от 17.11.2026 № 353-ФЗ \"О ратификации Договора между Российской Федерацией и Республикой Никарагуа о передаче для отбывания наказания лиц, осужденных к лишению свободы\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170015",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "31450ff5013f9f8a546cf0d5efd85309a927612500eed998a35f95e902de9ad7",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170014": {
+      "id": "0001202611170014",
+      "title": "Федеральный закон от 17.11.2026 № 352-ФЗ \"О ратификации Соглашения между Российской Федерацией и Республикой Южная Осетия о взаимном зачете в выслугу лет службы в таможенных органах Российской Федерации и Республики Южная Осетия\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170014",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "e149a26cd25dd2b0b5fe1415c6503e61a19ccd6ecc1b0f819f4974f4833038e2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170012": {
+      "id": "0001202611170012",
+      "title": "Федеральный закон от 17.11.2026 № 351-ФЗ \"О ратификации Протокола о внесении изменений в Договор между Российской Федерацией и Республикой Беларусь об общих принципах налогообложения по косвенным налогам от 3 октября 2022 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170012",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "0a48179442b19b1cdd340a1e6c4bf288793f9a7171d890d4c5b2015ba7708bc2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170020": {
+      "id": "0001202611170020",
+      "title": "Указ Президента Российской Федерации от 17.11.2026 № 852 \"О внесении изменения в Указ Президента Российской Федерации от 18 февраля 2026 г. № 101 \"О членах наблюдательного совета автономной некоммерческой организации \"Агентство стратегических инициатив по продвижению новых проектов\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170020",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "d80ef8142431d29264b5ead834fa0026908e9f93cf9865ab5e2c1329876a8993",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170019": {
+      "id": "0001202611170019",
+      "title": "Указ Президента Российской Федерации от 17.11.2026 № 850 \"О заместителе Генерального прокурора Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170019",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "c57648cef3d8bd79c70898eae88f8f8667ecc43291ce3637ba1745e3750bc78b",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611170021": {
+      "id": "0001202611170021",
+      "title": "Распоряжение Президента Российской Федерации от 17.11.2026 № 434-рп \"О внесении изменений в состав специальной рабочей группы по координации деятельности институтов развития Совета при Президенте Российской Федерации по стратегическому развитию и национальным проектам и в перечень институтов развития, утвержденные распоряжением Президента Российской Федерации от 5 июня 2025 г. № 222-рп\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611170021",
+      "publishedAt": "2026-11-16T21:00:00+00:00",
+      "metadataHash": "8f7997e14081ec39c648a606ce3dd5455321a70524c4fbff4820835ae435f0a7",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
