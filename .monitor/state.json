@@ -206,6 +206,7 @@
     },
     "court": {
       "known": {
+        "0001202611180001": "7f96dfd14afd01c63ec487936ced5ba726f4a6e4fdfe95274c7cc7a77686438b",
         "0001202611130001": "4dcfd8e533476c2c2d5a2d5cd0d8b9b4b94622305de8202ead096900f9033f58",
         "0001202611060001": "4fb9a3b63a99fccfeccd56b5b88447bb1ac5572e5483c5bb7b167386d50d5e23",
         "0001202610300002": "aa13b336db05cd97c1b9205e899b8d704881ed01a339299451818aa550ae5067",
@@ -404,8 +405,7 @@
         "0001202307260001": "297aeaace7920441183850e731f4f4152c3d7f1ae2bc67bac0ee825f7775d615",
         "0001202307210001": "0768af82693e383caf781ce23f75fda1296054be4514d0d81a3784bd9edb34cb",
         "0001202307190002": "5a475ac1680cda143230389e945769a7f54913991cfa0b5df975268e15eebf74",
-        "0001202307180001": "081c37d71ad6e127346a27a2cd70138741c48f12592194f85573137d8555955e",
-        "0001202307170001": "a91bc5696dea0a0128d7688b675b8db654bebcc49cc5899724e9b07c4fd049f1"
+        "0001202307180001": "081c37d71ad6e127346a27a2cd70138741c48f12592194f85573137d8555955e"
       }
     }
   },
@@ -758,6 +758,16 @@
       "metadataHash": "8f7997e14081ec39c648a606ce3dd5455321a70524c4fbff4820835ae435f0a7",
       "reason": "new-publication",
       "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611180001": {
+      "id": "0001202611180001",
+      "title": "Постановление Конституционного Суда Российской Федерации от 17.11.2026 № 66-П по делу о проверке конституционности пункта 1 статьи 81 Семейного кодекса Российской Федерации в связи с жалобой гражданина Сафонова Матвея Евгеньевича",
+      "url": "https://publication.pravo.gov.ru/document/0001202611180001",
+      "publishedAt": "2026-11-17T21:00:00+00:00",
+      "metadataHash": "7f96dfd14afd01c63ec487936ced5ba726f4a6e4fdfe95274c7cc7a77686438b",
+      "reason": "new-publication",
+      "sourceGroup": "court",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
     }
   }
