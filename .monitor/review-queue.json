@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-20T07:11:13.781563+00:00",
+  "checkedAt": "2026-11-20T20:12:46.866818+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -10,6 +10,16 @@
   "monitoringSince": "2026-10-23",
   "problems": [],
   "pendingReview": [
+    {
+      "id": "0001202611200001",
+      "title": "Указ Президента Российской Федерации от 20.11.2026 № 855 \"О присуждении Государственной премии Российской Федерации за выдающиеся достижения в области гуманитарной деятельности 2026 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611200001",
+      "publishedAt": "2026-11-19T21:00:00+00:00",
+      "metadataHash": "f979bf0bd00be8c5effd910056ef803156bc02054dfea3b52be917ea4ebce0c0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
     {
       "id": "0001202611180001",
       "title": "Постановление Конституционного Суда Российской Федерации от 17.11.2026 № 66-П по делу о проверке конституционности пункта 1 статьи 81 Семейного кодекса Российской Федерации в связи с жалобой гражданина Сафонова Матвея Евгеньевича",

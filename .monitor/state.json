@@ -2,6 +2,7 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611200001": "f979bf0bd00be8c5effd910056ef803156bc02054dfea3b52be917ea4ebce0c0",
         "0001202611170018": "70877a09a27dcf98c58beecd1f3c7d592564d713af9381dba21b993638c5eb47",
         "0001202611170017": "0b0ab427bbb8a44938e97447d0e5c9abe160ccb7bd8014e19d30b9ac2712f9cf",
         "0001202611170016": "d49ff7c1141e585edf050364461d120bfc0b292b01cb04a03cb3445961a1d13c",
@@ -200,8 +201,7 @@
         "0001202608240009": "8f5092d75f1ebfb65753f9f2cc3b224b04308fe0fc5744823bdbd00f27b56ba4",
         "0001202608240007": "8e58cffadfac0cbce5fbe1a2007194501a4326eb57ae0f6605889525e0d13501",
         "0001202608240003": "a6c8d0d289dedae63c3db29d9df10cf776bdcd08234349e65a031a254e4bc83c",
-        "0001202608240006": "ebd4ffa4c7d52b62a02d13de1a17fbe8a595aec5d8312bcb22fc5c2b155e3a25",
-        "0001202608240004": "e9cfb1f6bd26a7bcf0d229954bf0382e4b5f485e2e08a2c98a1ebd79a8dddd12"
+        "0001202608240006": "ebd4ffa4c7d52b62a02d13de1a17fbe8a595aec5d8312bcb22fc5c2b155e3a25"
       }
     },
     "court": {
@@ -768,6 +768,16 @@
       "metadataHash": "7f96dfd14afd01c63ec487936ced5ba726f4a6e4fdfe95274c7cc7a77686438b",
       "reason": "new-publication",
       "sourceGroup": "court",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611200001": {
+      "id": "0001202611200001",
+      "title": "Указ Президента Российской Федерации от 20.11.2026 № 855 \"О присуждении Государственной премии Российской Федерации за выдающиеся достижения в области гуманитарной деятельности 2026 года\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611200001",
+      "publishedAt": "2026-11-19T21:00:00+00:00",
+      "metadataHash": "f979bf0bd00be8c5effd910056ef803156bc02054dfea3b52be917ea4ebce0c0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
     }
   }
