@@ -2,6 +2,7 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611240001": "3c73b64a5d017fa3867e1002d779a59862492da75187c9700696765435ea9e19",
         "0001202611200001": "f979bf0bd00be8c5effd910056ef803156bc02054dfea3b52be917ea4ebce0c0",
         "0001202611170018": "70877a09a27dcf98c58beecd1f3c7d592564d713af9381dba21b993638c5eb47",
         "0001202611170017": "0b0ab427bbb8a44938e97447d0e5c9abe160ccb7bd8014e19d30b9ac2712f9cf",
@@ -200,8 +201,7 @@
         "0001202608250001": "96c8cca270ab46bdae07a6025433b50de9d2ac923b52eaffced99e3f390b33c9",
         "0001202608240009": "8f5092d75f1ebfb65753f9f2cc3b224b04308fe0fc5744823bdbd00f27b56ba4",
         "0001202608240007": "8e58cffadfac0cbce5fbe1a2007194501a4326eb57ae0f6605889525e0d13501",
-        "0001202608240003": "a6c8d0d289dedae63c3db29d9df10cf776bdcd08234349e65a031a254e4bc83c",
-        "0001202608240006": "ebd4ffa4c7d52b62a02d13de1a17fbe8a595aec5d8312bcb22fc5c2b155e3a25"
+        "0001202608240003": "a6c8d0d289dedae63c3db29d9df10cf776bdcd08234349e65a031a254e4bc83c"
       }
     },
     "court": {
@@ -776,6 +776,16 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611200001",
       "publishedAt": "2026-11-19T21:00:00+00:00",
       "metadataHash": "f979bf0bd00be8c5effd910056ef803156bc02054dfea3b52be917ea4ebce0c0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240001": {
+      "id": "0001202611240001",
+      "title": "Указ Президента Российской Федерации от 23.11.2026 № 856 \"О внесении изменений в состав Комиссии при Президенте Российской Федерации по вопросам стратегии развития топливно-энергетического комплекса и экологической безопасности, утвержденный Указом Президента Российской Федерации от 6 сентября 2024 г. № 755\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240001",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "3c73b64a5d017fa3867e1002d779a59862492da75187c9700696765435ea9e19",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
