@@ -2,7 +2,18 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611240010": "7259d63725239d3e0d45981e81f730cf374c5ee2dc6b6064db6f9ab596fd6cd0",
+        "0001202611240009": "4823ac5a31a840f6aeb53e5c835ec4cdf02edabcd2e8f9dfe47229a81d4654c2",
+        "0001202611240007": "f5c80772cdfc632458c95f01d452c230873438417ebbd94c6ecfce5e454395ca",
+        "0001202611240008": "1df1751f4bf0876caea5cc8d81c644d1c2fd2ef807eb9e07eb29310aa0aed041",
+        "0001202611240005": "718bc9dd24885a69ae573e37499771dffc02be3984ac0191682e19c61ba4bcdc",
+        "0001202611240003": "cbe4960491a588fa02f8b0e6868cb73e6c5605131f53e287eb0451740459f55d",
+        "0001202611240004": "a4f81923237dbc92dbf8fca04d3642bb2dd0709de4ef6e4b796665eb9c712370",
         "0001202611240001": "3c73b64a5d017fa3867e1002d779a59862492da75187c9700696765435ea9e19",
+        "0001202611240012": "b99004a5c1fda4593ee9dc4a023ec309b8b670a42ba01430acc6244efee7aa79",
+        "0001202611240011": "7680a7ffe8a21ccae37efd85f87d3ebfb5df4f28792d9bc4ac6271222377e4bd",
+        "0001202611240006": "b9e7928c5d56f3a99c8d12a9edbe8285b147dcb1ba6fd4569eabf56c09435db6",
+        "0001202611240002": "d9db04d03a437c7689810609bb327034dc7d9fe2593aa78670dc783dbc241a77",
         "0001202611200001": "f979bf0bd00be8c5effd910056ef803156bc02054dfea3b52be917ea4ebce0c0",
         "0001202611170018": "70877a09a27dcf98c58beecd1f3c7d592564d713af9381dba21b993638c5eb47",
         "0001202611170017": "0b0ab427bbb8a44938e97447d0e5c9abe160ccb7bd8014e19d30b9ac2712f9cf",
@@ -190,18 +201,7 @@
         "0001202608310008": "5abe31c2c2bde1ae2d638cc617bcc9fda15a9cf6308f8a789d21e10ba47b0dcf",
         "0001202608310005": "3a33e300186087ae2ffa92086ed5a10179f77ab5e9f4a0348073e5d4b5b58792",
         "0001202608310006": "d26ac9f69ec839044bf389b21db12783ee684e9827c8050f41d4ff28a5e5fe8e",
-        "0001202608310004": "ca26b9288a506ebdb2655c9028d45a4b0133e85d90960eedf1cdf7bc11471fa3",
-        "0001202608310003": "41367a126852abcd83e4b6edfcbccae9d21ce17ced607f94a01465ab48311ff8",
-        "0001202608310002": "593e21ac3de65fea4c52a0b852babc85ae2ecb31465f3cd22758c9f32452608c",
-        "0001202608310001": "6f718686ecec9c909a91a7d043ca8c33372539d82ef24ff16388363149b978ab",
-        "0001202608310009": "f6d4b22d3f813079e88392b5e9134ca95241569eae0e2154f4440564b74e9df0",
-        "0001202608310007": "50381dc5d1627615a9af30c6aae7fabfe8799155aea0f18d5b8c058dd85f6e4a",
-        "0001202608250021": "317a094cd46018325b9f8b64ea3c66bc37bb9dd62c96f3029fc8186a9225b845",
-        "0001202608250002": "2045deb732db59f99b3f80101dff573f503fcdb3d9ab8ded6fa00c22a12f29bc",
-        "0001202608250001": "96c8cca270ab46bdae07a6025433b50de9d2ac923b52eaffced99e3f390b33c9",
-        "0001202608240009": "8f5092d75f1ebfb65753f9f2cc3b224b04308fe0fc5744823bdbd00f27b56ba4",
-        "0001202608240007": "8e58cffadfac0cbce5fbe1a2007194501a4326eb57ae0f6605889525e0d13501",
-        "0001202608240003": "a6c8d0d289dedae63c3db29d9df10cf776bdcd08234349e65a031a254e4bc83c"
+        "0001202608310004": "ca26b9288a506ebdb2655c9028d45a4b0133e85d90960eedf1cdf7bc11471fa3"
       }
     },
     "court": {
@@ -786,6 +786,116 @@
       "url": "https://publication.pravo.gov.ru/document/0001202611240001",
       "publishedAt": "2026-11-23T21:00:00+00:00",
       "metadataHash": "3c73b64a5d017fa3867e1002d779a59862492da75187c9700696765435ea9e19",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240010": {
+      "id": "0001202611240010",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 867 \"О внесении изменений в Указ Президента Российской Федерации от 22 ноября 2023 г. № 889 \"Вопросы гражданства Российской Федерации\" и в Положение о порядке рассмотрения вопросов гражданства Российской Федерации, утвержденное этим Указом\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240010",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "7259d63725239d3e0d45981e81f730cf374c5ee2dc6b6064db6f9ab596fd6cd0",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240009": {
+      "id": "0001202611240009",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 866 \"О внесении изменений в состав Совета при Президенте Российской Федерации по развитию гражданского общества и правам человека, утвержденный Указом Президента Российской Федерации от 3 декабря 2018 г. № 691\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240009",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "4823ac5a31a840f6aeb53e5c835ec4cdf02edabcd2e8f9dfe47229a81d4654c2",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240007": {
+      "id": "0001202611240007",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 865 \"О внесении изменения в состав Комиссии при Президенте Российской Федерации по делам ветеранов, утвержденный Указом Президента Российской Федерации от 16 января 2025 г. № 25\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240007",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "f5c80772cdfc632458c95f01d452c230873438417ebbd94c6ecfce5e454395ca",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240008": {
+      "id": "0001202611240008",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 864 \"О внесении изменения в Указ Президента Российской Федерации от 8 мая 2025 г. № 300 \"О дополнительных социальных гарантиях членам семей военнослужащих, сотрудников некоторых федеральных государственных органов и граждан, пребывающих в добровольческих формированиях\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240008",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "1df1751f4bf0876caea5cc8d81c644d1c2fd2ef807eb9e07eb29310aa0aed041",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240005": {
+      "id": "0001202611240005",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 863 \"О специальном представителе Президента Российской Федерации по развитию международного транспортного коридора Север - Юг\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240005",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "718bc9dd24885a69ae573e37499771dffc02be3984ac0191682e19c61ba4bcdc",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240003": {
+      "id": "0001202611240003",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 861 \"О специальном представителе Президента Российской Федерации по военно-мемориальным вопросам и работе по сохранению исторической памяти\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240003",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "cbe4960491a588fa02f8b0e6868cb73e6c5605131f53e287eb0451740459f55d",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240004": {
+      "id": "0001202611240004",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 858 \"О награждении государственными наградами Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240004",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "a4f81923237dbc92dbf8fca04d3642bb2dd0709de4ef6e4b796665eb9c712370",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240012": {
+      "id": "0001202611240012",
+      "title": "Распоряжение Президента Российской Федерации от 24.11.2026 № 443-рп \"О признании утратившим силу пункта 34 перечня российских кредитных организаций, в отношении которых установлен запрет на сделки (операции) с акциями, долями (вкладами), составляющими их уставные капиталы, утвержденного распоряжением Президента Российской Федерации от 26 октября 2022 г. № 357-рп\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240012",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "b99004a5c1fda4593ee9dc4a023ec309b8b670a42ba01430acc6244efee7aa79",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240011": {
+      "id": "0001202611240011",
+      "title": "Распоряжение Президента Российской Федерации от 24.11.2026 № 442-рп \"О признании утратившим силу пункта 7 перечня российских кредитных организаций, в отношении которых установлен запрет на сделки (операции) с акциями, долями (вкладами), составляющими их уставные капиталы, утвержденного распоряжением Президента Российской Федерации от 26 октября 2022 г. № 357-рп\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240011",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "7680a7ffe8a21ccae37efd85f87d3ebfb5df4f28792d9bc4ac6271222377e4bd",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240006": {
+      "id": "0001202611240006",
+      "title": "Распоряжение Президента Российской Федерации от 24.11.2026 № 441-рп \"О внесении изменений в состав рабочей группы по развитию международного транспортного коридора Север - Юг, утвержденный распоряжением Президента Российской Федерации от 25 ноября 2024 г. № 384-рп\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240006",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "b9e7928c5d56f3a99c8d12a9edbe8285b147dcb1ba6fd4569eabf56c09435db6",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611240002": {
+      "id": "0001202611240002",
+      "title": "Распоряжение Президента Российской Федерации от 24.11.2026 № 440-рп \"О внесении изменения в состав межведомственной рабочей группы по вопросам воспитания детей и молодежи, утвержденный распоряжением Президента Российской Федерации от 19 мая 2025 г. № 175-рп\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611240002",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "metadataHash": "d9db04d03a437c7689810609bb327034dc7d9fe2593aa78670dc783dbc241a77",
       "reason": "new-publication",
       "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
