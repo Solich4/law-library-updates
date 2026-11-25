@@ -1,29 +1,8 @@
 {
-  "checkedAt": "2026-11-24T22:26:48.576828+00:00",
+  "checkedAt": "2026-11-25T08:28:27.311084+00:00",
   "scope": "Detection only. No automatic legal interpretation, content replacement, signing or publication.",
   "transport": "Official legacy metadata endpoint uses HTTP; changes are untrusted review triggers until corroborated.",
-  "errors": [
-    {
-      "document": "criminal",
-      "error": "timed out"
-    },
-    {
-      "document": "arbitration",
-      "error": "timed out"
-    },
-    {
-      "document": "criminal-procedure",
-      "error": "timed out"
-    },
-    {
-      "document": "administrative-offences",
-      "error": "timed out"
-    },
-    {
-      "document": "constitution",
-      "error": "timed out"
-    }
-  ],
+  "errors": [],
   "pending": {
     "land:new-deferred-edition:486035:496107,498750": {
       "document": "land",
@@ -444,6 +423,17 @@
         }
       ]
     },
+    "criminal": {
+      "editionId": 496140,
+      "editionDate": "20260815",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 494253,
+          "editionDate": "20270301"
+        }
+      ]
+    },
     "forest": {
       "editionId": 496070,
       "editionDate": "20260901",
@@ -558,6 +548,17 @@
         }
       ]
     },
+    "arbitration": {
+      "editionId": 483504,
+      "editionDate": "20260101",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495393,
+          "editionDate": "20270727"
+        }
+      ]
+    },
     "administrative-procedure": {
       "editionId": 490431,
       "editionDate": "20260510",
@@ -612,6 +613,27 @@
       "officialBodyReady": true,
       "futureEditions": []
     },
+    "criminal-procedure": {
+      "editionId": 495402,
+      "editionDate": "20260806",
+      "officialBodyReady": true,
+      "futureEditions": []
+    },
+    "administrative-offences": {
+      "editionId": 496101,
+      "editionDate": "20261103",
+      "officialBodyReady": true,
+      "futureEditions": [
+        {
+          "editionId": 495401,
+          "editionDate": "20270123"
+        },
+        {
+          "editionId": 496102,
+          "editionDate": "20270101"
+        }
+      ]
+    },
     "tax-1": {
       "editionId": 495415,
       "editionDate": "20261001",
@@ -626,6 +648,12 @@
           "editionDate": "20270101"
         }
       ]
+    },
+    "constitution": {
+      "editionId": 406785,
+      "editionDate": "20221005",
+      "officialBodyReady": false,
+      "futureEditions": []
     }
   },
   "contentRevision": 20
