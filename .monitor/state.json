@@ -2,6 +2,7 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611250018": "20c2fccf718af30e1c1db7c392fbbf4f5c0875158c8cf5176c082ac097f02459",
         "0001202611240010": "7259d63725239d3e0d45981e81f730cf374c5ee2dc6b6064db6f9ab596fd6cd0",
         "0001202611240009": "4823ac5a31a840f6aeb53e5c835ec4cdf02edabcd2e8f9dfe47229a81d4654c2",
         "0001202611240007": "f5c80772cdfc632458c95f01d452c230873438417ebbd94c6ecfce5e454395ca",
@@ -200,8 +201,7 @@
         "0001202609040001": "05b937ce01a0c2122cbfc3a7d82020b5ded196e5753d6a725ad65248b0c0a535",
         "0001202608310008": "5abe31c2c2bde1ae2d638cc617bcc9fda15a9cf6308f8a789d21e10ba47b0dcf",
         "0001202608310005": "3a33e300186087ae2ffa92086ed5a10179f77ab5e9f4a0348073e5d4b5b58792",
-        "0001202608310006": "d26ac9f69ec839044bf389b21db12783ee684e9827c8050f41d4ff28a5e5fe8e",
-        "0001202608310004": "ca26b9288a506ebdb2655c9028d45a4b0133e85d90960eedf1cdf7bc11471fa3"
+        "0001202608310006": "d26ac9f69ec839044bf389b21db12783ee684e9827c8050f41d4ff28a5e5fe8e"
       }
     },
     "court": {
@@ -908,6 +908,16 @@
       "metadataHash": "8a1009750485c7cdf928e54af766a0ddcf26832ef4466f974b27d28356fc5122",
       "reason": "new-publication",
       "sourceGroup": "court",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611250018": {
+      "id": "0001202611250018",
+      "title": "Указ Президента Российской Федерации от 24.11.2026 № 868 \"О досрочном прекращении полномочий Губернатора Мурманской области\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611250018",
+      "publishedAt": "2026-11-24T21:00:00+00:00",
+      "metadataHash": "20c2fccf718af30e1c1db7c392fbbf4f5c0875158c8cf5176c082ac097f02459",
+      "reason": "new-publication",
+      "sourceGroup": "president",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
     }
   }
