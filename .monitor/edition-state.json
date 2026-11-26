@@ -149,8 +149,8 @@
       ]
     },
     "penal-enforcement": {
-      "editionId": 489497,
-      "editionDate": "20260920",
+      "editionId": 500816,
+      "editionDate": "20261125",
       "officialBodyReady": true,
       "futureEditions": []
     },
@@ -650,6 +650,38 @@
       ],
       "comparisonBasis": "technical-source-comparison-unreviewed",
       "baselineEditionId": 498752
+    },
+    "penal-enforcement:active-edition-changed:500816:": {
+      "document": "penal-enforcement",
+      "reason": "active-edition-changed",
+      "baseline": {
+        "editionId": 489497,
+        "editionDate": "20260920",
+        "officialBodyReady": true,
+        "futureEditions": []
+      },
+      "observed": {
+        "editionId": 500816,
+        "editionDate": "20261125",
+        "officialBodyReady": true,
+        "futureEditions": []
+      },
+      "reviewRequired": true,
+      "articleChangesStatus": "compared",
+      "comparedEditionIds": [
+        500816
+      ],
+      "articleChangeGroups": [
+        {
+          "editionId": 500816,
+          "editionDate": "20261125",
+          "future": false,
+          "changes": [],
+          "sourceSha256": "8ef73687f96e32062ac9a00b6956118b4783bc024a9998ca5dde93a03e7bb3ba"
+        }
+      ],
+      "comparisonBasis": "technical-source-comparison-unreviewed",
+      "baselineEditionId": 489497
     }
   }
 }

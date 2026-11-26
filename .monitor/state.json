@@ -2,6 +2,18 @@
   "feeds": {
     "president": {
       "known": {
+        "0001202611260009": "5ed03db5e2bdece3354783abbc4e11b79993e3b3cd3fdae13bf788d5ddb868fd",
+        "0001202611260011": "679cd0dd385e83ac2ac58a5854ed1cd2a83a7ac0740d779be1569b2d0e48b511",
+        "0001202611260012": "8381e8c31c372e44dbf7e143bf8d4a6b822cc845ac874bf7f569f817885aa1ed",
+        "0001202611260010": "576d75fc3aeb13f11937649628985d544ad163fe07c948a94fe0a50c43c73bee",
+        "0001202611260007": "b27086d3f1d9e2d319ae37497077399fe7de8953de1315f8bc8ab23394f4c6e5",
+        "0001202611260006": "9ef3eb1a265628bfcb866d0d4f7a54e03836e3be44be7f59abefd34e2e0e3838",
+        "0001202611260004": "2280290a87e4c92b37648207dd98e27e972523f243dde6101ae89862866e264a",
+        "0001202611260002": "3fc562d4c1509d751564864f47bc209066ad52c3a309867b66b6e88b9a00a1f9",
+        "0001202611260003": "03fa504cddf83a279c7c2305e09e2ec939d361e6532186763441d086e84bf44e",
+        "0001202611260020": "65ccba5aa79dd5165adbaafa66ffe645ac621daf3f2213a5f60f50c49c05d935",
+        "0001202611260037": "cce008f65400d5c861f1d089731b067aafcf57afbe6b2365a9c2ae88d289c8a8",
+        "0001202611260005": "522e9615a516786519165c9ca2d78d187ef1efb06deac91f7088068e5e0362bf",
         "0001202611250018": "20c2fccf718af30e1c1db7c392fbbf4f5c0875158c8cf5176c082ac097f02459",
         "0001202611240010": "7259d63725239d3e0d45981e81f730cf374c5ee2dc6b6064db6f9ab596fd6cd0",
         "0001202611240009": "4823ac5a31a840f6aeb53e5c835ec4cdf02edabcd2e8f9dfe47229a81d4654c2",
@@ -189,23 +201,12 @@
         "0001202609100021": "2ef78f56ceef8d6e0e09490b3dcabd366175fbf3493356be9f8d1224d6ef5a18",
         "0001202609070006": "01c3c65f0241f27e802dd445353da3872e73fe2051729ce2bd44977ebca2b583",
         "0001202609070007": "2ee29c7c3b8c8c6ec2ffe4ad8e358e5712ebd334e0341c8282b59d452b23fe91",
-        "0001202609070005": "7212dcdf3a5eab1e7f16bbe0c05fa26d4809142522a6bfca476bade347dbf46d",
-        "0001202609070003": "31cd90c61ba633307748ab435c939bbbf3eb6c883da7b4ef7cf1fb507a4c236e",
-        "0001202609070004": "462029e7c8fa7eac036a7efab2eea6bd3dfbf728bf3b19320cb1d30002f5ed75",
-        "0001202609070002": "8e6f450e53bccca3d5be8de480eda1e4c55c29a76ac576da0498de38483f3588",
-        "0001202609050005": "218d173a2c6d88eedfdbe60aa9f26db213c3752dc595331cc1106d95fabf7413",
-        "0001202609050002": "eae14318d60021a453796f6ae08109c8231d63f320e19d7660099a8d4f87c0e8",
-        "0001202609050001": "e86d6465bb74a6b5ea43acbfa65d1e62b79317690b5479102fa07c933005d34e",
-        "0001202609050003": "a1bf252bcea6766032ac82705d419e4e829dbf38d775c5ead061292e7e2af514",
-        "0001202609040002": "a077ee178ee4e63cb73c6b65b3dd160bcf6dd82b9e342c8e255b9cd63699181e",
-        "0001202609040001": "05b937ce01a0c2122cbfc3a7d82020b5ded196e5753d6a725ad65248b0c0a535",
-        "0001202608310008": "5abe31c2c2bde1ae2d638cc617bcc9fda15a9cf6308f8a789d21e10ba47b0dcf",
-        "0001202608310005": "3a33e300186087ae2ffa92086ed5a10179f77ab5e9f4a0348073e5d4b5b58792",
-        "0001202608310006": "d26ac9f69ec839044bf389b21db12783ee684e9827c8050f41d4ff28a5e5fe8e"
+        "0001202609070005": "7212dcdf3a5eab1e7f16bbe0c05fa26d4809142522a6bfca476bade347dbf46d"
       }
     },
     "court": {
       "known": {
+        "0001202611260001": "f4cff6c8be622713603c9003627563d706f7f879b07d44a4fa3df9d7bdc2a895",
         "0001202611250001": "8a1009750485c7cdf928e54af766a0ddcf26832ef4466f974b27d28356fc5122",
         "0001202611180001": "7f96dfd14afd01c63ec487936ced5ba726f4a6e4fdfe95274c7cc7a77686438b",
         "0001202611130001": "4dcfd8e533476c2c2d5a2d5cd0d8b9b4b94622305de8202ead096900f9033f58",
@@ -404,8 +405,7 @@
         "0001202310050001": "6cd1cc6daba54634aadff0ed109f5ca44d8a988bf8bb77f7f9fbd77d059f694a",
         "0001202309280001": "050b1d85571c86d910a74b8d14e35b6bb2b1b6d5b5af0dc37efbea2b31ccf1ac",
         "0001202307260001": "297aeaace7920441183850e731f4f4152c3d7f1ae2bc67bac0ee825f7775d615",
-        "0001202307210001": "0768af82693e383caf781ce23f75fda1296054be4514d0d81a3784bd9edb34cb",
-        "0001202307190002": "5a475ac1680cda143230389e945769a7f54913991cfa0b5df975268e15eebf74"
+        "0001202307210001": "0768af82693e383caf781ce23f75fda1296054be4514d0d81a3784bd9edb34cb"
       }
     }
   },
@@ -918,6 +918,136 @@
       "metadataHash": "20c2fccf718af30e1c1db7c392fbbf4f5c0875158c8cf5176c082ac097f02459",
       "reason": "new-publication",
       "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260009": {
+      "id": "0001202611260009",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 883 \"О внесении изменений в Положение о Комиссии при Президенте Российской Федерации по вопросам развития технологий искусственного интеллекта и в состав этой Комиссии, утвержденные Указом Президента Российской Федерации от 26 февраля 2026 г. № 116\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260009",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "5ed03db5e2bdece3354783abbc4e11b79993e3b3cd3fdae13bf788d5ddb868fd",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260011": {
+      "id": "0001202611260011",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 882 \"О внесении изменений в состав Межведомственной комиссии по защите государственной тайны, утвержденный Указом Президента Российской Федерации от 10 октября 2016 г. № 535\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260011",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "679cd0dd385e83ac2ac58a5854ed1cd2a83a7ac0740d779be1569b2d0e48b511",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260012": {
+      "id": "0001202611260012",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 881 \"О внесении изменений в состав Совета при Президенте Российской Федерации по противодействию коррупции и в состав президиума этого Совета, утвержденные Указом Президента Российской Федерации от 13 февраля 2020 г. № 117\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260012",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "8381e8c31c372e44dbf7e143bf8d4a6b822cc845ac874bf7f569f817885aa1ed",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260010": {
+      "id": "0001202611260010",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 880 \"О внесении изменений в состав Российского организационного комитета \"Победа\", утвержденный Указом Президента Российской Федерации от 30 марта 2020 г. № 229\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260010",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "576d75fc3aeb13f11937649628985d544ad163fe07c948a94fe0a50c43c73bee",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260007": {
+      "id": "0001202611260007",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 878 \"О грантах Президента Российской Федерации для поддержки творческих проектов общенационального значения в области культуры и искусства\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260007",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "b27086d3f1d9e2d319ae37497077399fe7de8953de1315f8bc8ab23394f4c6e5",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260006": {
+      "id": "0001202611260006",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 877 \"Об атамане Уссурийского войскового казачьего общества\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260006",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "9ef3eb1a265628bfcb866d0d4f7a54e03836e3be44be7f59abefd34e2e0e3838",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260004": {
+      "id": "0001202611260004",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 876 \"О праздновании 125-летия со дня рождения Гайто Газданова\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260004",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "2280290a87e4c92b37648207dd98e27e972523f243dde6101ae89862866e264a",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260002": {
+      "id": "0001202611260002",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 875 \"О праздновании 200-летия основания г. Бердянска Запорожской области\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260002",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "3fc562d4c1509d751564864f47bc209066ad52c3a309867b66b6e88b9a00a1f9",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260003": {
+      "id": "0001202611260003",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 874 \"О Всероссийском дне детской книги\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260003",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "03fa504cddf83a279c7c2305e09e2ec939d361e6532186763441d086e84bf44e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260020": {
+      "id": "0001202611260020",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 873 \"О назначении судей федеральных судов и о представителях Президента Российской Федерации в квалификационных коллегиях судей субъектов Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260020",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "65ccba5aa79dd5165adbaafa66ffe645ac621daf3f2213a5f60f50c49c05d935",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260037": {
+      "id": "0001202611260037",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 872 \"О Стратегии развития Арктической зоны Российской Федерации и обеспечения национальной безопасности в Арктике\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260037",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "cce008f65400d5c861f1d089731b067aafcf57afbe6b2365a9c2ae88d289c8a8",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260005": {
+      "id": "0001202611260005",
+      "title": "Распоряжение Президента Российской Федерации от 26.11.2026 № 444-рп (О праздновании 80-летия отечественного хоккея)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260005",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "522e9615a516786519165c9ca2d78d187ef1efb06deac91f7088068e5e0362bf",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    "0001202611260001": {
+      "id": "0001202611260001",
+      "title": "Постановление Конституционного Суда Российской Федерации от 25.11.2026 № 68-П по делу о проверке конституционности положений части 2 статьи 1 и части 3 статьи 3 Закона Краснодарского края \"Об охране зеленых насаждений в Краснодарском крае\" в связи с жалобой гражданки Григорян Соны Мелконовны",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260001",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "f4cff6c8be622713603c9003627563d706f7f879b07d44a4fa3df9d7bdc2a895",
+      "reason": "new-publication",
+      "sourceGroup": "court",
       "reviewStatus": "scope-and-legal-effect-not-reviewed"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T08:13:05.393292+00:00",
+  "checkedAt": "2026-11-26T21:28:43.721584+00:00",
   "mode": "live-official-trigger",
   "transports": {
     "president": "http-untrusted-trigger-only",
@@ -10,6 +10,136 @@
   "monitoringSince": "2026-10-23",
   "problems": [],
   "pendingReview": [
+    {
+      "id": "0001202611260009",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 883 \"О внесении изменений в Положение о Комиссии при Президенте Российской Федерации по вопросам развития технологий искусственного интеллекта и в состав этой Комиссии, утвержденные Указом Президента Российской Федерации от 26 февраля 2026 г. № 116\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260009",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "5ed03db5e2bdece3354783abbc4e11b79993e3b3cd3fdae13bf788d5ddb868fd",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260011",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 882 \"О внесении изменений в состав Межведомственной комиссии по защите государственной тайны, утвержденный Указом Президента Российской Федерации от 10 октября 2016 г. № 535\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260011",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "679cd0dd385e83ac2ac58a5854ed1cd2a83a7ac0740d779be1569b2d0e48b511",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260012",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 881 \"О внесении изменений в состав Совета при Президенте Российской Федерации по противодействию коррупции и в состав президиума этого Совета, утвержденные Указом Президента Российской Федерации от 13 февраля 2020 г. № 117\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260012",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "8381e8c31c372e44dbf7e143bf8d4a6b822cc845ac874bf7f569f817885aa1ed",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260010",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 880 \"О внесении изменений в состав Российского организационного комитета \"Победа\", утвержденный Указом Президента Российской Федерации от 30 марта 2020 г. № 229\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260010",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "576d75fc3aeb13f11937649628985d544ad163fe07c948a94fe0a50c43c73bee",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260007",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 878 \"О грантах Президента Российской Федерации для поддержки творческих проектов общенационального значения в области культуры и искусства\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260007",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "b27086d3f1d9e2d319ae37497077399fe7de8953de1315f8bc8ab23394f4c6e5",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260006",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 877 \"Об атамане Уссурийского войскового казачьего общества\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260006",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "9ef3eb1a265628bfcb866d0d4f7a54e03836e3be44be7f59abefd34e2e0e3838",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260004",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 876 \"О праздновании 125-летия со дня рождения Гайто Газданова\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260004",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "2280290a87e4c92b37648207dd98e27e972523f243dde6101ae89862866e264a",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260002",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 875 \"О праздновании 200-летия основания г. Бердянска Запорожской области\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260002",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "3fc562d4c1509d751564864f47bc209066ad52c3a309867b66b6e88b9a00a1f9",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260003",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 874 \"О Всероссийском дне детской книги\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260003",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "03fa504cddf83a279c7c2305e09e2ec939d361e6532186763441d086e84bf44e",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260020",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 873 \"О назначении судей федеральных судов и о представителях Президента Российской Федерации в квалификационных коллегиях судей субъектов Российской Федерации\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260020",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "65ccba5aa79dd5165adbaafa66ffe645ac621daf3f2213a5f60f50c49c05d935",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260037",
+      "title": "Указ Президента Российской Федерации от 26.11.2026 № 872 \"О Стратегии развития Арктической зоны Российской Федерации и обеспечения национальной безопасности в Арктике\"",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260037",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "cce008f65400d5c861f1d089731b067aafcf57afbe6b2365a9c2ae88d289c8a8",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260005",
+      "title": "Распоряжение Президента Российской Федерации от 26.11.2026 № 444-рп (О праздновании 80-летия отечественного хоккея)",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260005",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "522e9615a516786519165c9ca2d78d187ef1efb06deac91f7088068e5e0362bf",
+      "reason": "new-publication",
+      "sourceGroup": "president",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
+    {
+      "id": "0001202611260001",
+      "title": "Постановление Конституционного Суда Российской Федерации от 25.11.2026 № 68-П по делу о проверке конституционности положений части 2 статьи 1 и части 3 статьи 3 Закона Краснодарского края \"Об охране зеленых насаждений в Краснодарском крае\" в связи с жалобой гражданки Григорян Соны Мелконовны",
+      "url": "https://publication.pravo.gov.ru/document/0001202611260001",
+      "publishedAt": "2026-11-25T21:00:00+00:00",
+      "metadataHash": "f4cff6c8be622713603c9003627563d706f7f879b07d44a4fa3df9d7bdc2a895",
+      "reason": "new-publication",
+      "sourceGroup": "court",
+      "reviewStatus": "scope-and-legal-effect-not-reviewed"
+    },
     {
       "id": "0001202611250001",
       "title": "Постановление Конституционного Суда Российской Федерации от 24.11.2026 № 67-П по делу о проверке конституционности части первой статьи 60-8 Уголовно-исполнительного кодекса Российской Федерации, статей 133, 147, 149, 153 и 315 Трудового кодекса Российской Федерации, а также статьи 1 Закона Российской Федерации \"О государственных гарантиях и компенсациях для лиц, работающих и проживающих в районах Крайнего Севера и приравненных к ним местностях\" в связи с жалобами граждан Жилкина Дмитрия Павловича и Лузинова Дениса Марковича",
